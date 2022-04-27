@@ -1,18 +1,21 @@
 # it-architecture-diagrams
 Implementation and examples of IBM IT architecture diagrams.
 
-## diagrams.net Desktop for IBM (pre-release)
+## diagrams.net desktop application for IBM (pre-release)
 
 <details><summary><Installing diagrams.net desktop for IBM (Mac only)</summary>
+
 <p>
 Install from here: [https://github.com/IBM/it-architecture-diagrams/releases]
 </p>
+  
 <p>
 When you run the first time, Mac will ask about security, you will then need to do the following:
-- Go to **System Preferences**
-- Select **Security & Privacy**
-- Click on **Open Anyway** for this app
+1. Go to **System Preferences**
+2. Select **Security & Privacy**
+3. Click on **Open Anyway** for this application
 </p>
+  
 </details>
 
 <details><summary><Enabling diagrams.net desktop for IBM</details>
