@@ -1,7 +1,7 @@
 # it-architecture-diagrams
 Implementation and examples of IBM IT architecture diagrams.
 
-## IBM diagrams.net Desktop (pre-release)
+## diagrams.net Desktop for IBM (pre-release)
 
 <details><summary><Installing diagrams.net desktop for IBM (Mac only)</summary>
 <p>
