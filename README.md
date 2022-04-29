@@ -5,6 +5,7 @@ Implementation and examples of IBM IT architecture diagrams.
 
 <details><summary>Setup</summary>
 <details><summary>Mac</summary>
+<p>
 To access and start the latest IBM pre-release application binary for Mac: 
 1. Download the [zip](https://github.com/IBM/it-architecture-diagrams/releases).
 2. Extract and open the application binary. 
@@ -21,6 +22,7 @@ To access and start the latest IBM pre-release application binary for Mac:
     * IBM Industry (industry shapes)
     * IBM Helpers (helper sets)
     * IBM Starters (starter sets)
+</p>
 </details>
 <details><summary>Windows</summary>
 </details>
