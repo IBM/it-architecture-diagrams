@@ -3,7 +3,7 @@ Implementation and examples of IBM IT architecture diagrams.
 
 ## IBM2 Diagrams
 
-<details><summary>Installing IBM2 diagrams on diagrams.net (draw.io)</summary>
+<details><summary>Setup IBM2 diagrams on diagrams.net</summary>
 <p>
 To access and start the latest IBM2 pre-release application binrary for Mac:
  
