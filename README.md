@@ -5,7 +5,7 @@ Implementation and examples of IBM IT architecture diagrams.
 
 <details><summary>Setup on diagrams.net</summary>
 <p>
-To access and start the latest IBM2 pre-release application binrary for Mac:
+To access and start the latest IBM pre-release application binrary for Mac:
  
 1. Download the [zip](https://github.com/IBM/it-architecture-diagrams/releases).
 2. Extract and open the application binary. 
