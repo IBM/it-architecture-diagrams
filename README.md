@@ -7,6 +7,12 @@ Implementation and examples of IBM IT architecture diagrams.
 <p>
 To access and start the latest IBM pre-release application binary for Mac:
  
+<details><summary>Inside Mac Setup</summary>
+<p>
+test test test
+ </p>
+</details>
+ 
 1. Download the [zip](https://github.com/IBM/it-architecture-diagrams/releases).
 2. Extract and open the application binary. 
 3. When you run the first time Mac will ask about security:
