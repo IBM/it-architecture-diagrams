@@ -15,11 +15,11 @@ To access and start the latest IBM2 pre-release application binrary for Mac:
     * Click on **Open Anyway** for this app.
 4. After opening the application binary click on "+ More Shapes" in the bottom left panel.
 5. Select IBM and click Apply to finish.
-    * IBM Icons
-    * IBM Shapes
-    * IBM Cloud
-    * IBM Core
-    * IBM Industry
-    * IBM Helpers
-    * IBM Starters
+    * IBM Icons (active icons)
+    * IBM Shapes (basic shapes)
+    * IBM Cloud (cloud shapes)
+    * IBM Core (core shapes)
+    * IBM Industry (industry shapes)
+    * IBM Helpers (helper sets)
+    * IBM Starters (starter sets)
 </details>
