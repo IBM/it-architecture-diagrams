@@ -45,7 +45,7 @@ Three colors in each color family are available for use with IBM Diagrams:
 * Medium Line (swatch 50 or 60)
 * Dark Line (swatch 70 or 80)
    
-The following colors are also available for use with IBM Diagrams:
+Additionally,
 * White
 * Black
 * Transparent
