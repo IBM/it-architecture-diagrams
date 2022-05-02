@@ -31,3 +31,27 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 </details>
 
 </details>
+
+<details><summary>Usage</summary>
+<details><summary>IBM Color Palette</summary>
+<p>
+When any IBM sidebar is first selected the menu bar turns blue and the Format Panel is configured with:
+
+1. [IBM Color Palette](https://www.ibm.com/design/language/color/)
+2. [IBM Plex Fonts](https://www.ibm.com/plex/)
+</p>
+<p>
+Three colors in each color family are available for use with IBM Diagrams:
+* Light Fill (swatch 10)
+* Medium Line (swatch 50 or 60)
+* Dark Line (swatch 70 or 80)
+   
+The following colors are also available for use with IBM Diagrams:
+* White
+* Black
+* Transparent
+
+The Color Schemes at the top of the Format Panel is the preferred method of using the IBM Color Palette
+</p>
+</details>
+</details>
