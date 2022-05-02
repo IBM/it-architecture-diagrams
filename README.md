@@ -116,7 +116,7 @@ The fonts available in IBM Diagrams are:
 | IBM Plex Sans Arabic | X | X | | |
 | Arial | X | | | |
 
-Labels in IBM Diagrams have pre-defined Plex fonts as follows:
+Labels in IBM Diagrams have pre-defined Plex fonts:
 
 | Name | Font | Size |
 | --- | --- | --- |
