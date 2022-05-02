@@ -61,18 +61,10 @@ The Format Panel for IBM Diagrams has Color Schemes at top which are the recomme
 * Bottom row are dark color lines with white fill followed by light fill.
    
 For example,
-* Column 1:
-    * Medium Red Line with White Filli
-    * Dark Red Line with Light Fill
-* Column 2:
-    * Medium Red Line with Light Fill 
-    * Dark Red Line with Light Fill
-* Column 3:
-    * Medium Magenta Line with White Fill
-    * Dark Magenta Line with White Fill
-* Column 4:
-    * Medium Magenta Line with Light Fill
-    * Dark Magenta Line with Light Fill
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| Red Line<br>White Fill | Red Line<br>Light Fill | Magenta Line<br>White Fill | Magenta Line<br>Light Fill |
+| Dark Red Line<br>White Fill | Dark Red Line<br>Light Fill | Dark Magenta Line<br>White Fill | Dark Magenta Line<br>Light Fill |
 
 ![IBM Color Schemes](/images/IBMDiagramsFormatPanel.png "IBM Color Schemes")
 
