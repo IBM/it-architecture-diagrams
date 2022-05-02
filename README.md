@@ -33,7 +33,7 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 
 </details>
 
-<details><summary>Introduction</summary>
+<details><summary>Colors</summary>
    
 <details><summary>IBM Color Palette</summary>
 <p>
@@ -92,8 +92,9 @@ Tooltips,
 
 </p>
 </details>
+</details>
 
-<details><summary>IBM Plex Fonts</summary>
+<details><summary>Fonts</summary>
 <p>
    
 The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/) and Arial Fonts.
