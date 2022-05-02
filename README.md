@@ -90,7 +90,7 @@ Where a plex font doesn't have Italic the non-plex Italic is used.
 Plex fonts available in IBM Diagrams include:
 
 | Font Name | Regular | Semi Bold | Italic | Semi Bold Italic |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | IBM Plex Sans | X | X | X | X |
 | IBM Plex Sans Arabic | X | X | | |
 | Arial | X | X | X | X |
