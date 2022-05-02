@@ -75,17 +75,17 @@ Example,
 <details><summary>IBM Preset Colors</summary>
 <p>
 
-The IBM Preset Colors are the secondary method of using the IBM Color Palette with the group of 3 rows at the top:
+The IBM Preset Colors are the secondary method of using the IBM Color Palette with the top group of 3 rows:
 ![IBM Preset Colors](/images/IBMPresetColors.png "IBM Preset Colors")
 
 Where,
-* First row in group of 3 rows are dark colors for lines.
-* Second row in group of 3 rows are medium colors for lines.
-* Third row in group of 3 rows are light colors for fills.
+* First row in top group are dark colors for lines.
+* Second row in top group are medium colors for lines.
+* Third row in top group are light colors for fills.
   
 Additionally,
-* First row in bottom group of 10 rows has Transparent, White, and Black.
-* Second row through last row in bottom group of 10 rows are the entire IBM Color Palette minus swatch 100.
+* First row in bottom group has Transparent, White, and Black.
+* Second row through tenth row in bottom group are the entire IBM Color Palette minus swatch 100.
 
 Tooltips,
 * Each color in the IBM Colors has a tooltip that shows the color family, color swatch, and intended use.
