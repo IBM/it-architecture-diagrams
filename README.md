@@ -61,7 +61,7 @@ The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https:
 </p> 
 </details>
    
-<details><summary>Color Schemes</summary>
+<details><summary>IBM Color Schemes</summary>
 <p>
    
 The Format Panel for IBM Diagrams has Color Schemes at top which are the recommended method of using the IBM Color Palette:
