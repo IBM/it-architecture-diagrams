@@ -79,7 +79,7 @@ Represents the following colors:
    
 The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/).
 
-The buttons in the Format Panel are configured for plex fonts:
+The buttons in the Format Panel are configured as follows:
 * No button selected is Regular font.
 * B button selected is Semi Bold font.
 * I button selected is Italic font.
@@ -87,10 +87,11 @@ The buttons in the Format Panel are configured for plex fonts:
 
 Where a plex font doesn't have Italic the non-plex Italic is used.
 
-Plex fonts support include:
+Plex fonts available in IBM Diagrams include:
 
 | Font Name | Regular | Semi Bold | Italic | Semi Bold Italic |
-} IBM Plex Sans | X | X | X | X |
+| --- | --- | --- | --- |
+| IBM Plex Sans | X | X | X | X |
 | IBM Plex Sans Arabic | X | X | | |
 | Arial | X | X | X | X |
    
