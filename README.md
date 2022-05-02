@@ -35,7 +35,8 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 <details><summary>Introduction</summary>
 <details><summary>IBM Color Palette</summary>
 <p>
-When any IBM sidebar is first selected the menu bar turns blue and the Format Panel is configured with [IBM Color Palette] (https://www.ibm.com/design/language/color/) .
+When any IBM sidebar is first selected Format Panel is configured with [IBM Color Palette](https://www.ibm.com/design/language/color/).
+   
 </p>
 <p>
 Three colors in each color family are available for use with IBM Diagrams:
