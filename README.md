@@ -16,6 +16,7 @@ To access and start the latest IBM pre-release diagrams.net application binary f
     * Click on **Open Anyway** for this app.
 4. After opening the application binary click on "+ More Shapes" in the bottom left panel.
 5. Select IBM and click Apply to finish.
+6. IBM Sidebars are now available:
     * IBM Icons (active icons)
     * IBM Shapes (basic shapes)
     * IBM Cloud (cloud shapes)
