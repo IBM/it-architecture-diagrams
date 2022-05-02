@@ -83,9 +83,9 @@ The buttons in the Format Panel are configured as follows:
 * No button selected is Regular font.
 * B button selected is Semi Bold font.
 * I button selected is Italic font.
-* B+I buttons selectied is Semi Bold Italic font.
+* B+I buttons selected is Semi Bold Italic font.
 
-Where a plex font doesn't have Italic the non-plex Italic is used.
+Where a plex font doesn't have Italic the system Italic is used on the plex font.
 
 Plex fonts available in IBM Diagrams include:
 
