@@ -35,6 +35,7 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 <details><summary>Introduction</summary>
 <details><summary>IBM Color Palette</summary>
 <p>
+   
 When any IBM sidebar is first selected Format Panel is configured with [IBM Color Palette](https://www.ibm.com/design/language/color/).
    
 </p>
