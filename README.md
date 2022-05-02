@@ -83,10 +83,8 @@ Where,
 * Second row are medium colors for lines.
 * Third row are light colors for fills.
   
-Plus,
-* First row in bottom group of 10 rows has Transparent, White, and Black.
-
 Additionally,
+* First row in bottom group of 10 rows has Transparent, White, and Black.
 * Second row through last row in bottom group of 10 rows are the entire IBM Color Palette minus swatch 100.
 
 Tooltips,
@@ -100,7 +98,7 @@ Tooltips,
    
 The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/) and Arial Fonts.
 
-The buttons in the Format Panel are configured as follows:
+The buttons in the Format Panel are configured as follows for Plex fonts:
 * No button is Regular font.
 * B button is Semi Bold font.
 * I button is Italic font.
@@ -110,7 +108,7 @@ Where a font doesn't have a corresponding Bold or Italic the system Bold or Ital
 
 The lang parameter is used to select the country code corresponding to the fonts.
 
-Fonts available in IBM Diagrams include:
+The fonts available in IBM Diagrams are:
 
 | Font Name | Regular | Semi Bold | Italic | Semi Bold Italic |
 | --- | --- | --- | --- | --- |
@@ -118,7 +116,7 @@ Fonts available in IBM Diagrams include:
 | IBM Plex Sans Arabic | X | X | | |
 | Arial | X | | | |
 
-Labels in IBM Diagrams have pre-defined plex fonts as follows:
+Labels in IBM Diagrams have pre-defined Plex fonts as follows:
 
 | Name | Font | Size |
 | --- | --- | --- |
