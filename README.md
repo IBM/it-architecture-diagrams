@@ -35,14 +35,6 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 
 <details><summary>Introduction</summary>
    
-<details><summary>IBM Plex Fonts</summary>
-<p>
-   
-The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/).
-   
-</p> 
-</details>
-   
 <details><summary>IBM Color Palette</summary>
 <p>
    
@@ -68,7 +60,19 @@ The Format Panel for IBM Diagrams has Color Schemes at top which are the recomme
 * Top row are medium color lines with white fill followed by light fill.
 * Bottom row are dark color lines with white fill followed by light fill.
    
+For example in screenshot:
+* Top row: Red 50 with White Fill, Red 50 with Light Fill (Red 10), Magenta 50 with White Fill, Magenta 50 with Light Fill (Magenta 10).
+* Bottom row: Red 70 with White Fill, Red 70 with Light Fill (Red 10), Magenta 70 with White Fill, Magenta 70 with Light Fill (Magenta 10).
+
 ![IBM Color Schemes](/images/IBMDiagramsFormatPanel.png "IBM Color Schemes")
 
 </p>
+</details>
+
+<details><summary>IBM Plex Fonts</summary>
+<p>
+   
+The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/).
+   
+</p> 
 </details>
