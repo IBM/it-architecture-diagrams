@@ -62,7 +62,7 @@ The Format Panel for IBM Diagrams has Color Schemes at top which are the recomme
    
 For example,
 
-Color Scheme in Format Panel:
+Following color schemes in Format Panel:
 ![IBM Color Schemes](/images/IBMDiagramsFormatPanel.png "IBM Color Schemes")
 
 Represents the following colors:
