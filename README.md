@@ -63,8 +63,8 @@ The Format Panel for IBM Diagrams has Color Schemes at top which are the recomme
 For example,
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | --- | --- | --- | --- |
-| Red Line<br>White Fill | Red Line<br>Light Fill | Magenta Line<br>White Fill | Magenta Line<br>Light Fill |
-| Dark Red Line<br>White Fill | Dark Red Line<br>Light Fill | Dark Magenta Line<br>White Fill | Dark Magenta Line<br>Light Fill |
+| Medium Red<br>White Fill | Medium Red<br>Light Fill | Medium Magenta<br>White Fill | Medium Magenta<br>Light Fill |
+| Dark Red<br>White Fill | Dark Rede<br>Light Fill | Dark Magenta<br>White Fill | Dark Magenta<br>Light Fill |
 
 ![IBM Color Schemes](/images/IBMDiagramsFormatPanel.png "IBM Color Schemes")
 
