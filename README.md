@@ -4,6 +4,7 @@ Implementation and examples of IBM IT architecture diagrams.
 ## IBM Diagrams (beta)
 
 <details><summary>Setup</summary>
+   
 <details><summary>Mac</summary>
 <p>
 To access and start the latest IBM pre-release diagrams.net application binary for Mac: 
@@ -33,10 +34,11 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 </details>
 
 <details><summary>Introduction</summary>
+   
 <details><summary>IBM Color Palette</summary>
 <p>
    
-When any IBM sidebar is first selected Format Panel is configured with [IBM Color Palette](https://www.ibm.com/design/language/color/).
+The Format Panel for IBM Diagrams is configured with the [IBM Color Palette](https://www.ibm.com/design/language/color/).
    
 Three colors in each color family are available for use with IBM Diagrams:
 * Light Fill (swatch 10)
@@ -47,14 +49,24 @@ The following colors are also available for use with IBM Diagrams:
 * White
 * Black
 * Transparent
-
-The Color Schemes at the top of the Format Panel is the preferred method of using the IBM Color Palette
+   
 </p>
 </details>
+
 <details><summary>IBM Plex Fonts</summary>
 <p>
    
-When any IBM sidebar is first selected the menu bar turns blue and the Format Panel is configured with [IBM Plex Fonts](https://www.ibm.com/plex/).
-</p> 
+The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/).
    
+</p> 
+</details>
+   
+<details><summary>Color Schemes</summary>
+<p>
+   
+The Color Schemes at the top of the Format Panel is the recommended method of using the IBM Color Palette:
+* Top row are medium color lines with white fill followed by light fill.
+* Bottom row are dark color lines with white fill followed by light fill.
+
+</p>
 </details>
