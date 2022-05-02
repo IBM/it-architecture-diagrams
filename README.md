@@ -35,7 +35,7 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 <details><summary>Introduction</summary>
 <details><summary>IBM Color Palette</summary>
 <p>
-When any IBM sidebar is first selected the menu bar turns blue and the Format Panel is configured with [IBM Color Palette]() .
+When any IBM sidebar is first selected the menu bar turns blue and the Format Panel is configured with [IBM Color Palette] (https://www.ibm.com/design/language/color/) .
 </p>
 <p>
 Three colors in each color family are available for use with IBM Diagrams:
@@ -53,6 +53,6 @@ The Color Schemes at the top of the Format Panel is the preferred method of usin
 </details>
 <details><summary>IBM Plex Fonts</summary>
 <p>
-When any IBM sidebar is first selected the menu bar turns blue and the Format Panel is configured with [IBM Plex Fonts](https://www.ibm.com/plex/).
+When any IBM sidebar is first selected the menu bar turns blue and the Format Panel is configured with [IBM Plex Fonts] (https://www.ibm.com/plex/).
 </p> 
 </details>
