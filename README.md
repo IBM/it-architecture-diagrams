@@ -60,7 +60,7 @@ The Format Panel for IBM Diagrams has Color Schemes at top which are the recomme
 * Top row are medium color lines with white fill followed by light fill.
 * Bottom row are dark color lines with white fill followed by light fill.
    
-For example in screenshot:
+For example,
 * Top row: Red 50 with White Fill, Red 50 with Light Fill (Red 10), Magenta 50 with White Fill, Magenta 50 with Light Fill (Magenta 10).
 * Bottom row: Red 70 with White Fill, Red 70 with Light Fill (Red 10), Magenta 70 with White Fill, Magenta 70 with Light Fill (Magenta 10).
 
