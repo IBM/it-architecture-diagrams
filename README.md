@@ -1,7 +1,7 @@
 # it-architecture-diagrams
 Implementation and examples of IBM IT architecture diagrams.
 
-## IBM Diagrams (beta)
+## IBM Diagrams
 
 <details><summary>Setup</summary>
    
@@ -78,6 +78,21 @@ Represents the following colors:
 <p>
    
 The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/).
+
+The buttons in the Format Panel are configured for plex fonts:
+* No button selected is Regular font.
+* B button selected is Semi Bold font.
+* I button selected is Italic font.
+* B+I buttons selectied is Semi Bold Italic font.
+
+Where a plex font doesn't have Italic the non-plex Italic is used.
+
+Plex fonts support include:
+
+| Font Name | Regular | Semi Bold | Italic | Semi Bold Italic |
+} IBM Plex Sans | X | X | X | X |
+| IBM Plex Sans Arabic | X | X | | |
+| Arial | X | X | X | X |
    
 </p> 
 </details>
