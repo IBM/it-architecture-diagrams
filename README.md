@@ -56,7 +56,7 @@ Additionally,
 <details><summary>IBM Color Schemes</summary>
 <p>
    
-The IBM Color Schemes at the top of the Format Panel are the recommended method of using the IBM Color Palette:
+The IBM Color Schemes at the top of the Format Panel under Style are the recommended method of using the IBM Color Palette:
 ![IBM Color Schemes](/images/IBMColorSchemes.png "IBM Color Schemes")
 
 Where,
@@ -75,7 +75,7 @@ Example,
 <details><summary>IBM Preset Colors</summary>
 <p>
 
-The IBM Preset Colors are the secondary method of using the IBM Color Palette with the group of three rows at the top of the IBM Colors:
+The IBM Preset Colors are the secondary method of using the IBM Color Palette with the group of three rows at the top:
 ![IBM Preset Colors](/images/IBMPresetColors.png "IBM Preset Colors")
 
 Where,
