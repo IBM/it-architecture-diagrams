@@ -38,7 +38,7 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 <details><summary>IBM Color Palette</summary>
 <p>
    
-The Format Panel for IBM Diagrams is configured with the [IBM Color](https://www.ibm.com/design/language/color/) palette.
+The Format Panel for IBM Diagrams is configured with the [IBM Color Palette](https://www.ibm.com/design/language/color/).
    
 Three colors in each color family are available for use with IBM Diagrams:
 * Light Fill (swatch 10)
@@ -100,7 +100,7 @@ The Format Panel for IBM Diagrams has Color Schemes at top which are the recomme
 <details><summary>IBM Plex Fonts</summary>
 <p>
    
-The Format Panel for IBM Diagrams is configured with the [IBM Plex](https://www.ibm.com/plex/) fonts and Arial fonts.
+The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/) and Arial Fonts.
 
 The buttons in the Format Panel are configured as follows:
 * No button is Regular font.
