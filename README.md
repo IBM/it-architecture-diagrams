@@ -64,7 +64,7 @@ For example,
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | --- | --- | --- | --- |
 | Medium Red<br>White Fill | Medium Red<br>Light Fill | Medium Magenta<br>White Fill | Medium Magenta<br>Light Fill |
-| Dark Red<br>White Fill | Dark Rede<br>Light Fill | Dark Magenta<br>White Fill | Dark Magenta<br>Light Fill |
+| Dark Red<br>White Fill | Dark Red<br>Light Fill | Dark Magenta<br>White Fill | Dark Magenta<br>Light Fill |
 
 ![IBM Color Schemes](/images/IBMDiagramsFormatPanel.png "IBM Color Schemes")
 
