@@ -63,6 +63,7 @@ Where,
 * Top row are medium color lines with white fill followed by light fill.
 * Bottom row are dark color lines with white fill followed by light fill.
    
+Example,
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | --- | --- | --- | --- |
 | Medium Red<br>White Fill | Medium Red<br>Light Fill | Medium Magenta<br>White Fill | Medium Magenta<br>Light Fill |
@@ -74,7 +75,7 @@ Where,
 <details><summary>IBM Preset Colors</summary>
 <p>
 
-The IBM Preset Colors are the secondary method of using the IBM Color Palette with group of three rows at the top of the IBM Colors:
+The IBM Preset Colors are the secondary method of using the IBM Color Palette with the group of three rows at the top of the IBM Colors:
 ![IBM Preset Colors](/images/IBMPresetColors.png "IBM Preset Colors")
 
 Where,
