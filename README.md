@@ -105,7 +105,7 @@ The buttons in the Format Panel are configured for Plex fonts:
 * I button is Italic font.
 * B+I buttons are Semi Bold Italic font.
 
-Where a font doesn't have a corresponding Bold or Italic the system Bold or Italic is applied to the Plex font or Arial font.
+Where a font doesn't have a corresponding Bold or Italic the system Bold or system Italic is applied to the Plex font or Arial font.
 
 The lang parameter is used to select the country code corresponding to the fonts.
 
