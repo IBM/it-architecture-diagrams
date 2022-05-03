@@ -51,6 +51,10 @@ Additionally,
 * White
 * Black
 * Transparent
+
+Defaults,
+* Collapsed shapes and expanded target system shape default to no fill, which can be changed to white fill or light fill.
+* Remaining expanded shapes default to white fill for container shapes and no fill for non-container shapes, which can be changed to white fill or light fill.`.
    
 </p>
 </details>
