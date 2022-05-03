@@ -99,7 +99,7 @@ Tooltips,
    
 The Format Panel for IBM Diagrams is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/) and Arial Fonts.
 
-The buttons in the Format Panel are configured as follows for Plex fonts:
+The buttons in the Format Panel are configured for Plex fonts:
 * No button is Regular font.
 * B button is Semi Bold font.
 * I button is Italic font.
