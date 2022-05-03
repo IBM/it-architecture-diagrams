@@ -37,6 +37,8 @@ To access and start the latest IBM pre-release diagrams.net application binary f
    
 <details><summary>IBM Color Palette</summary>
 <p>
+
+When any IBM sidebar is first selected the menu bar turns blue indicating that IBM customizations are enabled.
    
 The Format Panel under Style is configured with the [IBM Color Palette](https://www.ibm.com/design/language/color/).
    
