@@ -117,7 +117,7 @@ The lang parameter is used to select the country code corresponding to the fonts
 
 The fonts available in IBM Diagrams are:
 
-| Font Name | Regular | Semi Bold | Italic | Semi Bold Italic |
+| Font Family | Regular | Semi Bold | Italic | Semi Bold Italic |
 | --- | --- | --- | --- | --- |
 | IBM Plex Sans | X | X | X | X |
 | IBM Plex Sans Arabic | X | X | | |
@@ -127,12 +127,22 @@ Labels in IBM Diagrams have pre-defined Plex fonts:
 
 | Name | Font | Size |
 | --- | --- | --- |
-| Primary Label | Semi Bold | 10pt |
-| Secondary Text | Regular | 10pt |
-| Badge Label | Regular | 8pt`|
-| Legend Label | Semi Bold | 8pt |
-| Item Label | Regular | 8pt |
-| DU Label | Regular | 8pt |
+| Primary Label | Semi Bold | 14px |
+| Secondary Text | Regular | 14px |
+| Badge Label | Regular | 12px`|
+| Legend Label | Semi Bold | 14px |
+| Item Label | Regular | 12px |
+| DU Label | Regular | 14px |
    
 </p> 
+</details>
+
+<details><summary>Guidelines</summary>
+<p>
+
+Recommended guidelines include:
+* Always include one legend with each diagram - no legend won't explain the diagram and multiple legends can overpower the diagram.
+* Alternate white fill and light fill between consecutive nested groups -  alternate fills helps each group stands out.
+
+</p>
 </details>
