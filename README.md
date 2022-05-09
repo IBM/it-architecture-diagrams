@@ -115,24 +115,25 @@ Where a font doesn't have a corresponding Bold or Italic the system Bold or syst
 
 The lang parameter is used to select the country code corresponding to the fonts.
 
-The fonts available in IBM Diagrams are:
+The fonts available in IBM Diagrams are currently:
 
 | Font Family | Regular | Semi Bold | Italic | Semi Bold Italic |
 | --- | --- | --- | --- | --- |
 | IBM Plex Sans | X | X | X | X |
-| IBM Plex Sans Arabic | X | X | | |
 | Arial | X | | | |
 
 Labels in IBM Diagrams have pre-defined Plex fonts:
 
 | Name | Font | Size |
 | --- | --- | --- |
-| Primary Label | Semi Bold | 14px |
-| Secondary Text | Regular | 14px |
+| Shape Primary Label | Semi Bold | 14px |
+| Shape Secondary Text | Regular | 14px |
+| Item Primary Label | Regular | 12px |
+| Item Secondary Text | Regular | 12px |
+| DU Primary Label | Regular | 14px |
+| DU Secondary Label | Regular | 14px |
 | Badge Label | Regular | 12px`|
 | Legend Label | Semi Bold | 14px |
-| Item Label | Regular | 12px |
-| DU Label | Regular | 14px |
    
 </p> 
 </details>
