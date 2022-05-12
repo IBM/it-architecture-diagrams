@@ -18,13 +18,16 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 4. After opening the application binary click on "+ More Shapes" in the bottom left panel.
 5. Select IBM and click Apply to finish.
 6. IBM Sidebars are now available:
-    * IBM Icons (base icons)
-    * IBM Shapes (base shapes)
-    * IBM Cloud (cloud shapes)
-    * IBM Core (core shapes)
-    * IBM Industry (industry shapes)
-    * IBM Helpers (helper sets)
-    * IBM Starters (starter sets)
+    * Base:
+        * IBM Icons (base icons)
+        * IBM Shapes (base shapes)
+    * Cloud:
+        * IBM Cloud (cloud shapes)
+        * IBM Core (core shapes)
+        * IBM Industry (industry shapes)
+    * Sets:
+        * IBM Helpers (helper sets)
+        * IBM Starters (starter sets)
 </p>
 </details>
 
