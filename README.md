@@ -1,5 +1,5 @@
 # it-architecture-diagrams
-Implementation and examples of [IBM IT architecture diagrams](https://www.ibm.com/design/language/infographics/technical-diagrams/design).
+Implementation and details of [IBM IT architecture diagrams](https://www.ibm.com/design/language/infographics/technical-diagrams/design).
 
 ## IBM Diagrams
 
