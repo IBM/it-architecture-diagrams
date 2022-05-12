@@ -1,5 +1,5 @@
 # it-architecture-diagrams
-Implementation and examples of IBM IT architecture diagrams.
+Implementation and examples of [IBM IT architecture diagrams](https://www.ibm.com/design/language/infographics/technical-diagrams/design).
 
 ## IBM Diagrams
 
@@ -131,7 +131,6 @@ Labels in IBM Diagrams have pre-defined Plex fonts:
 | Item Primary Label | Regular | 12px |
 | Item Secondary Text | Regular | 12px |
 | DU Primary Label | Regular | 14px |
-| DU Secondary Label | Regular | 14px |
 | Badge Label | Regular | 12px`|
 | Legend Label | Semi Bold | 14px |
    
