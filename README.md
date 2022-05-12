@@ -40,7 +40,7 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 
 When any IBM sidebar is first selected the menu bar turns blue indicating that IBM customizations are enabled.
    
-The Format Panel under Style is configured with the [IBM Color Palette](https://www.ibm.com/design/language/color/).
+The Format Panel under Style is configured with the IBM Color Palette.
    
 Three colors in each color family are available for use with IBM Diagrams:
 * Light Fill (swatch 10)
@@ -103,7 +103,7 @@ Tooltips,
 <details><summary>Fonts</summary>
 <p>
    
-The Format Panel under Text is configured with the [IBM Plex Fonts](https://www.ibm.com/plex/) and Arial Fonts.
+The Format Panel under Text is configured with the IBM Plex Fonts.
 
 The buttons under Font are configured for Plex:
 * No button is Regular font.
