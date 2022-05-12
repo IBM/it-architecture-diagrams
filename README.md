@@ -139,7 +139,7 @@ Labels in IBM Diagrams have pre-defined Plex fonts:
 
 Recommended guidelines include:
 * Always include one legend with each diagram - no legend won't explain the diagram and multiple legends can overpower the diagram.
-* Alternate white fill and light fill between consecutive nested groups -  alternate fills helps each group stands out.
+* Alternate white fill and light fill between consecutive nested groups -  alternating fills helps each group stands out.
 
 </p>
 </details>
