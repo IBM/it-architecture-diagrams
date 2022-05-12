@@ -1,5 +1,5 @@
 # it-architecture-diagrams
-Implementation and details of [IBM IT architecture diagrams](https://www.ibm.com/design/language/infographics/technical-diagrams/design).
+Build technical diagrams for IT architecture and product documentation based on the [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design) and Carbon.
 
 ## IBM Diagrams
 
