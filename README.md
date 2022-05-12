@@ -27,9 +27,6 @@ To access and start the latest IBM pre-release diagrams.net application binary f
     * IBM Starters (starter sets)
 </p>
 </details>
-   
-<details><summary>Windows</summary>
-</details>
 
 </details>
 
