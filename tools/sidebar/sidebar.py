@@ -20,6 +20,14 @@ import yaml
 import requests
 import urllib3
 
+from xml.dom import minidom
+
+def loadIconXML():
+    inputfile = './input/ibm.xml'
+    file = minidom.parse(inputfile)
+    shapes = file.getElementsByTagName('shape')
+    return shapes
+
 def loadAllCategories():
     inputfile = './input/categories.yml'
     stream = open(inputfile, 'r')
@@ -46,6 +54,13 @@ def findSidebarMap(maps, member):
                 return map
     return None
 
+def isShapeName(shapes, name):
+    for shape in shapes:
+        if shape.attributes['name'].value == name:
+            return True
+    return False
+
+xmldata = loadIconXML()
 catdata = loadAllCategories()
 #catdata = loadSidebarCategories()
 mapdata = loadSidebarMaps()
@@ -71,18 +86,19 @@ if catdata != None and mapdata != None:
                 members = subcategory['members']
                 memcount = len(members)
                 for member in members:
-                    memcount = memcount - 1
-                    map = findSidebarMap(mapdata, member)
-                    if map != None:
-                        if memcount == 0:
-                            print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "' + map['mapper'] + '": "' + map['target'] + '"}')
+                    if isShapeName(xmldata, member):
+                        memcount = memcount - 1
+                        map = findSidebarMap(mapdata, member)
+                        if map != None:
+                            if memcount == 0:
+                                print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "' + map['mapper'] + '": "' + map['target'] + '"}')
+                            else:
+                                print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "' + map['mapper'] + '": "' + map['target'] + '"},')
                         else:
-                            print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "' + map['mapper'] + '": "' + map['target'] + '"},')
-                    else:
-                        if memcount == 0:
-                            print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}')
-                        else:
-                            print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},')
+                            if memcount == 0:
+                                print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}')
+                            else:
+                                print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},')
 
                 if subcount == 0 and catcount == 0:
                     print('      }')

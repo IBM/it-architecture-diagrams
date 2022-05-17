@@ -58,12 +58,9 @@
         "skip--forward": {"icon": "skip--forward", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "skip--forward--filled": {"icon": "skip--forward--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "skip--forward--outline": {"icon": "skip--forward--outline", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "skip--forward--outline--filled": {"icon": "skip--forward--outline--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "skip--forward--outline--solid": {"icon": "skip--forward--outline--solid", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "skip--forward--solid--filled": {"icon": "skip--forward--solid--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "stop": {"icon": "stop", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "stop--filled": {"icon": "stop--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "stop--filled--alt": {"icon": "stop--filled--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "stop--outline": {"icon": "stop--outline", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "stop--outline--filled": {"icon": "stop--outline--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "video--add": {"icon": "video--add", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -77,7 +74,7 @@
         "volume--up": {"icon": "volume--up", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "volume--up--alt": {"icon": "volume--up--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "volume--up--filled": {"icon": "volume--up--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "volume--up--filled--alt": {"icon": "volume--up--filled--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "volume--up--filled--alt": {"icon": "volume--up--filled--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Actions - Formatting": {
@@ -107,8 +104,6 @@
         "brightness-contrast": {"icon": "brightness-contrast", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "bring-forward": {"icon": "bring-forward", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "bring-to-front": {"icon": "bring-to-front", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "button--centered": {"icon": "button--centered", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "button--flush-left": {"icon": "button--flush-left", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "circle--solid": {"icon": "circle--solid", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "color-palette": {"icon": "color-palette", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "color-switch": {"icon": "color-switch", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -127,7 +122,6 @@
         "distribute--vertical-top": {"icon": "distribute--vertical-top", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "document--horizontal": {"icon": "document--horizontal", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "document--vertical": {"icon": "document--vertical", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "dot-mark": {"icon": "dot-mark", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "draw": {"icon": "draw", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "drop-photo": {"icon": "drop-photo", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "drop-photo--filled": {"icon": "drop-photo--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -225,13 +219,11 @@
         "trash-can": {"icon": "trash-can", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ungroup-objects": {"icon": "ungroup-objects", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "unlink": {"icon": "unlink", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "vertical-view": {"icon": "vertical-view", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "vertical-view": {"icon": "vertical-view", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Actions - Navigation": {
-        "add": {"icon": "add", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "add--alt": {"icon": "add--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "add--filled": {"icon": "add--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "apps": {"icon": "apps", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "arrow--down": {"icon": "arrow--down", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "arrow--down-left": {"icon": "arrow--down-left", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -241,10 +233,6 @@
         "arrow--up": {"icon": "arrow--up", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "arrow--up-left": {"icon": "arrow--up-left", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "arrow--up-right": {"icon": "arrow--up-right", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caret--down": {"icon": "caret--down", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caret--left": {"icon": "caret--left", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caret--right": {"icon": "caret--right", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caret--up": {"icon": "caret--up", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "chevron--down": {"icon": "chevron--down", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "chevron--left": {"icon": "chevron--left", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "chevron--right": {"icon": "chevron--right", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -271,7 +259,7 @@
         "zoom--in-area": {"icon": "zoom--in-area", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "zoom--out": {"icon": "zoom--out", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "zoom--out-area": {"icon": "zoom--out-area", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "zoom--reset": {"icon": "zoom--reset", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "zoom--reset": {"icon": "zoom--reset", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Actions - Operations": {
@@ -286,9 +274,6 @@
         "bookmark--add": {"icon": "bookmark--add", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "bookmark--filled": {"icon": "bookmark--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "branch": {"icon": "branch", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caret--sort": {"icon": "caret--sort", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caret--sort--down": {"icon": "caret--sort--down", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caret--sort--up": {"icon": "caret--sort--up", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "center--circle": {"icon": "center--circle", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "center--square": {"icon": "center--square", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "change-catalog": {"icon": "change-catalog", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -399,7 +384,6 @@
         "shuffle": {"icon": "shuffle", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "sort--ascending": {"icon": "sort--ascending", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "sort--descending": {"icon": "sort--descending", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "sort--remove": {"icon": "sort--remove", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "split": {"icon": "split", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "split-screen": {"icon": "split-screen", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "tag": {"icon": "tag", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -417,7 +401,7 @@
         "workspace--import": {"icon": "workspace--import", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "x-axis": {"icon": "x-axis", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "y-axis": {"icon": "y-axis", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "z-axis": {"icon": "z-axis", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "z-axis": {"icon": "z-axis", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Actions - Toggle": {
@@ -505,8 +489,7 @@
         "edt-loop": {"icon": "edt-loop", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-cloud": {"icon": "ibm-cloud", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "cloud"},
         "ibm-security": {"icon": "ibm-security", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "watson": {"icon": "watson", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "watson--machine-learning": {"icon": "watson--machine-learning", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "watson--machine-learning": {"icon": "watson--machine-learning", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Brand - Social": {
@@ -552,7 +535,6 @@
         "database--enterprise-db2": {"icon": "database--enterprise-db2", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "database--etcd": {"icon": "database--etcd", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "data--base"},
         "database--mongodb": {"icon": "database--mongodb", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "data--base"},
-        "database--postgreSQL": {"icon": "database--postgreSQL", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "database--rabbit": {"icon": "database--rabbit", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "data--base"},
         "database--redis": {"icon": "database--redis", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "data--base"},
         "direct-link": {"icon": "direct-link", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -564,7 +546,6 @@
         "ibm-cloud--internet-services": {"icon": "ibm-cloud--internet-services", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "cloud-services"},
         "ibm-cloud--security-compliance-center": {"icon": "ibm-cloud--security-compliance-center", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-cloud--subnets": {"icon": "ibm-cloud--subnets", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "locked"},
-        "ibm-cloud--transit-gateway": {"icon": "ibm-cloud--transit-gateway", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-cloud--vpc-endpoints": {"icon": "ibm-cloud--vpc-endpoints", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-cloud-pak--applications": {"icon": "ibm-cloud-pak--applications", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-cloud-pak--data": {"icon": "ibm-cloud-pak--data", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -575,13 +556,10 @@
         "ibm-cloud-pak--system": {"icon": "ibm-cloud-pak--system", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-cloud-pak--watson-aiops": {"icon": "ibm-cloud-pak--watson-aiops", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-security--services": {"icon": "ibm-security--services", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "ibm-watson--orders": {"icon": "ibm-watson--orders", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "infrastructure--classic": {"icon": "infrastructure--classic", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "load-balancer--vpc": {"icon": "load-balancer--vpc", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "scis--control-tower": {"icon": "scis--control-tower", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "scis--transparent-supply": {"icon": "scis--transparent-supply", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "virtual-private-cloud--alt": {"icon": "virtual-private-cloud--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "virtual-private-cloud"},
-        "vlan--ibm": {"icon": "vlan--ibm", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "vlan"}
+        "vlan--ibm": {"icon": "vlan--ibm", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "vlan"},
       },
 
       "Enterprise - Commerce": {
@@ -655,7 +633,6 @@
         "3D-curve--manual": {"icon": "3D-curve--manual", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "3D-iCa": {"icon": "3D-iCa", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "3D-MPR-Toggle": {"icon": "3D-MPR-Toggle", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "3D-print-mesh": {"icon": "3D-print-mesh", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "3rd-party-connected": {"icon": "3rd-party-connected", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "3D-software": {"icon": "3D-software", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ai-results": {"icon": "ai-results", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -706,7 +683,6 @@
         "HL7-attributes": {"icon": "HL7-attributes", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "hole-filling": {"icon": "hole-filling", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "hole-filling--cursor": {"icon": "hole-filling--cursor", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "iCA-2D": {"icon": "iCA-2D", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "image--medical": {"icon": "image--medical", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "interactive-segmentation-cursor": {"icon": "interactive-segmentation-cursor", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "launch-study--1": {"icon": "launch-study--1", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -765,47 +741,13 @@
         "window--black-saturation": {"icon": "window--black-saturation", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "window--overlay": {"icon": "window--overlay", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "window--preset": {"icon": "window--preset", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "zoom-pan": {"icon": "zoom-pan", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "zoom-pan": {"icon": "zoom-pan", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Enterprise - Research": {
-        "barrier": {"icon": "barrier", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "bloch-sphere": {"icon": "bloch-sphere", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "ccX": {"icon": "ccX", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "circuit-composer": {"icon": "circuit-composer", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "composer-edit": {"icon": "composer-edit", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "cU1": {"icon": "cU1", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "cU3": {"icon": "cU3", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "cY": {"icon": "cY", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "cZ": {"icon": "cZ", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "H": {"icon": "H", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "hinton-plot": {"icon": "hinton-plot", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "iD": {"icon": "iD", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "matrix": {"icon": "matrix", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "operation": {"icon": "operation", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "operation--gauge": {"icon": "operation--gauge", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "operation--if": {"icon": "operation--if", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "S": {"icon": "S", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "S--alt": {"icon": "S--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "T": {"icon": "T", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "T--alt": {"icon": "T--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "U1": {"icon": "U1", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "U2": {"icon": "U2", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "U3": {"icon": "U3", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "X": {"icon": "X", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "Y": {"icon": "Y", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "Z": {"icon": "Z", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
       },
 
       "Organization - Alphanumeric": {
-        "character--decimal": {"icon": "character--decimal", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "character--fraction": {"icon": "character--fraction", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "character--integer": {"icon": "character--integer", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "character--lower-case": {"icon": "character--lower-case", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "character--negative-number": {"icon": "character--negative-number", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "character--sentence-case": {"icon": "character--sentence-case", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "character--upper-case": {"icon": "character--upper-case", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "character--whole-number": {"icon": "character--whole-number", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "letter--Aa": {"icon": "letter--Aa", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "letter--Bb": {"icon": "letter--Bb", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "letter--Cc": {"icon": "letter--Cc", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -854,13 +796,12 @@
         "number--small--9": {"icon": "number--small--9", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "beta": {"icon": "beta", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "omega": {"icon": "omega", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "sigma": {"icon": "sigma", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "sigma": {"icon": "sigma", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Organization - Data": {
         "activity": {"icon": "activity", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "analytics": {"icon": "analytics", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "analytics--custom": {"icon": "analytics--custom", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "analytics--reference": {"icon": "analytics--reference", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "app-connectivity": {"icon": "app-connectivity", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "archive": {"icon": "archive", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -957,7 +898,6 @@
         "data-class": {"icon": "data-class", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "data-collection": {"icon": "data-collection", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "data-definition": {"icon": "data-definition", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "data-enrichment": {"icon": "data-enrichment", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "data-player": {"icon": "data-player", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "data-refinery": {"icon": "data-refinery", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "data-refinery--reference": {"icon": "data-refinery--reference", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1068,7 +1008,7 @@
         "virtual-private-cloud": {"icon": "virtual-private-cloud", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconp": "virtual-private-cloud--alt"},
         "visual-recognition": {"icon": "visual-recognition", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "vmdk-disk": {"icon": "vmdk-disk", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "word-cloud": {"icon": "word-cloud", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "word-cloud": {"icon": "word-cloud", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Organization - File": {
@@ -1131,7 +1071,6 @@
         "download": {"icon": "download", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "DVR": {"icon": "DVR", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "export": {"icon": "export", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "floorplan": {"icon": "floorplan", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "folder": {"icon": "folder", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "folder--add": {"icon": "folder--add", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "folder--details": {"icon": "folder--details", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1223,9 +1162,7 @@
         "task--remove": {"icon": "task--remove", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "task--settings": {"icon": "task--settings", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "task--star": {"icon": "task--star", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "task--tools": {"icon": "task--tools", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "task--view": {"icon": "task--view", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "template": {"icon": "template", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ticket": {"icon": "ticket", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "TIF": {"icon": "TIF", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "TSV": {"icon": "TSV", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1235,16 +1172,14 @@
         "version": {"icon": "version", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "websheet": {"icon": "websheet", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "WMV": {"icon": "WMV", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "workspace": {"icon": "workspace", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "XLS": {"icon": "XLS", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "XML": {"icon": "XML", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ZIP": {"icon": "ZIP", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "ZIP--reference": {"icon": "ZIP--reference", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "ZIP--reference": {"icon": "ZIP--reference", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Organization - Status": {
         "checkmark": {"icon": "checkmark", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "checkmark--filled": {"icon": "checkmark--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "checkmark--filled--error": {"icon": "checkmark--filled--error", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "checkmark--filled--warning": {"icon": "checkmark--filled--warning", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "checkmark--outline": {"icon": "checkmark--outline", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1255,15 +1190,7 @@
         "error": {"icon": "error", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "error--filled": {"icon": "error--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "error--outline": {"icon": "error--outline", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caution": {"icon": "caution", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "caution-inverted": {"icon": "caution-inverted", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "circle-fill": {"icon": "circle-fill", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "circle-stroke": {"icon": "circle-stroke", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "critical-severity": {"icon": "critical-severity", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "low-severity": {"icon": "low-severity", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "critical": {"icon": "critical", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "incomplete": {"icon": "incomplete", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "square-fill": {"icon": "square-fill", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "undefined": {"icon": "undefined", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "help": {"icon": "help", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "help--filled": {"icon": "help--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1296,16 +1223,13 @@
         "warning--hex--filled": {"icon": "warning--hex--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "warning--other": {"icon": "warning--other", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "warning-square": {"icon": "warning-square", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "warning-square--filled": {"icon": "warning-square--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "warning-square--filled": {"icon": "warning-square--filled", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Organization - Systems": {
         "application--mobile": {"icon": "application--mobile", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "application--virtual": {"icon": "application--virtual", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "application--web": {"icon": "application--web", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "assembly": {"icon": "assembly", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "assembly--cluster": {"icon": "assembly--cluster", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "assembly--reference": {"icon": "assembly--reference", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "bare-metal-server": {"icon": "bare-metal-server", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "bare-metal-server--01": {"icon": "bare-metal-server--01", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "bare-metal-server--02": {"icon": "bare-metal-server--02", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1374,14 +1298,6 @@
         "instance--cx": {"icon": "instance--cx", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "instance--mx": {"icon": "instance--mx", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "instance--virtual": {"icon": "instance--virtual", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "virtual-machine"},
-        "intent-request--active": {"icon": "intent-request--active", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "intent-request--create": {"icon": "intent-request--create", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "intent-request--heal": {"icon": "intent-request--heal", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "intent-request--inactive": {"icon": "intent-request--inactive", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "intent-request--scale-in": {"icon": "intent-request--scale-in", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "intent-request--scale-out": {"icon": "intent-request--scale-out", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "intent-request--uninstall": {"icon": "intent-request--uninstall", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "intent-request--upgrade": {"icon": "intent-request--upgrade", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "intrusion-prevention": {"icon": "intrusion-prevention", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "kubernetes": {"icon": "kubernetes", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "load-balancer--application": {"icon": "load-balancer--application", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1404,7 +1320,6 @@
         "pcn--p-node": {"icon": "pcn--p-node", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "pcn--z-node": {"icon": "pcn--z-node", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "point-of-presence": {"icon": "point-of-presence", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "property-relationship": {"icon": "property-relationship", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "router": {"icon": "router", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "router--voice": {"icon": "router--voice", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "router--wifi": {"icon": "router--wifi", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1413,10 +1328,6 @@
         "server--proxy": {"icon": "server--proxy", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "server--time": {"icon": "server--time", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "session-border-control": {"icon": "session-border-control", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "slisor": {"icon": "slisor", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "software-resource": {"icon": "software-resource", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "software-resource--cluster": {"icon": "software-resource--cluster", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "software-resource--resource": {"icon": "software-resource--resource", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "subnet-acl-rules": {"icon": "subnet-acl-rules", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "switch-layer-2": {"icon": "switch-layer-2", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "switch-layer-3": {"icon": "switch-layer-3", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1436,7 +1347,7 @@
         "wifi-bridge": {"icon": "wifi-bridge", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "wifi-bridge--alt": {"icon": "wifi-bridge--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "wifi--not-secure": {"icon": "wifi--not-secure", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "wifi--secure": {"icon": "wifi--secure", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "wifi--secure": {"icon": "wifi--secure", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Person - Senses": {
@@ -1554,9 +1465,7 @@
         "arrival": {"icon": "arrival", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "baggage-claim": {"icon": "baggage-claim", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "bar": {"icon": "bar", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "bicycle": {"icon": "bicycle", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "boot": {"icon": "boot", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "bus": {"icon": "bus", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "cabin-care": {"icon": "cabin-care", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "cabin-care--alert": {"icon": "cabin-care--alert", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "cabin-care--alt": {"icon": "cabin-care--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1671,7 +1580,6 @@
         "pedestrian-child": {"icon": "pedestrian-child", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "pedestrian--family": {"icon": "pedestrian--family", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "picnic-area": {"icon": "picnic-area", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "plane": {"icon": "plane", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "plane--private": {"icon": "plane--private", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "plane--sea": {"icon": "plane--sea", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "police": {"icon": "police", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1694,7 +1602,6 @@
         "traffic--flow-incident": {"icon": "traffic--flow-incident", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "traffic--incident": {"icon": "traffic--incident", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "traffic--weather-incident": {"icon": "traffic--weather-incident", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "traffic-cone": {"icon": "traffic-cone", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "train": {"icon": "train", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "train--heart": {"icon": "train--heart", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "train--profile": {"icon": "train--profile", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1706,7 +1613,7 @@
         "worship": {"icon": "worship", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "worship--christian": {"icon": "worship--christian", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "worship--jewish": {"icon": "worship--jewish", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "worship--muslim": {"icon": "worship--muslim", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "worship--muslim": {"icon": "worship--muslim", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Planning - Weather": {
@@ -1886,7 +1793,6 @@
         "connection--receive": {"icon": "connection--receive", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "connection--send": {"icon": "connection--send", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "connection--two-way": {"icon": "connection--two-way", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "cookie": {"icon": "cookie", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "debug": {"icon": "debug", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "deployment-pattern": {"icon": "deployment-pattern", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "deployment-policy": {"icon": "deployment-policy", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -1964,7 +1870,7 @@
         "wifi": {"icon": "wifi", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "wifi--controller": {"icon": "wifi--controller", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "wifi--off": {"icon": "wifi--off", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "wikis": {"icon": "wikis", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "wikis": {"icon": "wikis", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       },
 
       "Tools - Instruments": {
@@ -1987,10 +1893,9 @@
         "stamp": {"icon": "stamp", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "stethoscope": {"icon": "stethoscope", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "tool-box": {"icon": "tool-box", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "tool-kit": {"icon": "tool-kit", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "tools": {"icon": "tools", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "tools--alt": {"icon": "tools--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "umbrella": {"icon": "umbrella", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
+        "umbrella": {"icon": "umbrella", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
       }
     }
   },
