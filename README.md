@@ -106,33 +106,26 @@ Tooltips,
 The Format Panel under Text is configured with the IBM Plex Fonts.
 
 The buttons under Font are configured for Plex:
-* No button is Regular font.
-* B button is Semi Bold font.
-* I button is Italic font.
-* B+I buttons are Semi Bold Italic font.
+* No button is Plex Regular font.
+* B button is Plex Bold font.
+* I button is Plex Italic font.
+* B+I buttons are Plex Bold Italic font.
 
-Where a font doesn't have a corresponding Bold or Italic the system Bold or system Italic is applied to the Plex font or Arial font.
+Where a font doesn't have a corresponding Plex Bold or Plex Italic the system Bold or system Italic is applied to the Plex font or Arial font. 
 
-The lang parameter is used to select the country code corresponding to the fonts.
-
-The fonts available in IBM Diagrams are currently:
-
-| Font Family | Regular | Semi Bold | Italic | Semi Bold Italic |
-| --- | --- | --- | --- | --- |
-| IBM Plex Sans | X | X | X | X |
-| Arial | X | | | |
-
-Labels in IBM Diagrams have pre-defined Plex fonts:
+The labels in IBM Diagrams are pre-defined with Plex Semi Bold and Plex Regular: 
 
 | Name | Font | Size |
 | --- | --- | --- |
-| Shape Primary Label | Semi Bold | 14px |
-| Shape Secondary Text | Regular | 14px |
-| Item Primary Label | Regular | 12px |
-| Item Secondary Text | Regular | 12px |
-| DU Primary Label | Regular | 14px |
-| Badge Label | Regular | 12px`|
-| Legend Label | Semi Bold | 14px |
+| Shape Primary Label | Semi Bold | 14 |
+| Shape Secondary Text | Regular | 14 |
+| Item Primary Label | Regular | 12 |
+| Item Secondary Text | Regular | 12 |
+| DU Primary Label | Regular | 14 |
+| Badge Label | Regular | 12`|
+| Legend Label | Semi Bold | 14 |
+
+The lang parameter is used to select the country code corresponding to the fonts.
    
 </p> 
 </details>
