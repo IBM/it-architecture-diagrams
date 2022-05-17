@@ -3,6 +3,16 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 
 ## IBM Diagrams
 
+<details><summary>Guidelines</summary>
+<p>
+
+Recommended guidelines include:
+* Always include one legend with each diagram - no legend won't explain the diagram and multiple legends can overpower the diagram.
+* Alternate white fill and light fill between consecutive nested groups -  alternating fills enables each group to stand out visually.
+
+</p>
+</details>
+
 <details><summary>Setup</summary>
    
 <details><summary>Mac</summary>
@@ -128,24 +138,6 @@ The labels in IBM Diagrams are pre-defined with Plex Semi Bold and Plex Regular:
 The lang parameter is used to select the country code corresponding to the fonts.
    
 </p> 
-</details>
-
-<details><summary>Icons</summary>
-<p>
-
-https://github.com/carbon-design-system/carbon/blob/main/packages/icons/categories.yml
-
-</p>
-</details>
-
-<details><summary>Guidelines</summary>
-<p>
-
-Recommended guidelines include:
-* Always include one legend with each diagram - no legend won't explain the diagram and multiple legends can overpower the diagram.
-* Alternate white fill and light fill between consecutive nested groups -  alternating fills enables each group to stand out visually.
-
-</p>
 </details>
 
 <details><summary>Tools</summary>
