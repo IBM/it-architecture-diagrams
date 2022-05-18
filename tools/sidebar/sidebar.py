@@ -34,14 +34,14 @@ def loadAllCategories():
     data = yaml.load(stream, Loader=yaml.FullLoader)
     return data
 
-def loadSidebarMaps():
+def loadMaps():
     inputfile = './input/maps.yml'
     stream = open(inputfile, 'r')
     data = yaml.load(stream, Loader=yaml.FullLoader)
     return data
 
-def loadSidebarCategories():
-    inputfile = './input/sidebar.yml'
+def loadSubsetCategories():
+    inputfile = './input/categories-subset.yml'
     stream = open(inputfile, 'r')
     data = yaml.load(stream, Loader=yaml.FullLoader)
     return data
@@ -62,8 +62,8 @@ def isShapeName(shapes, name):
 
 xmldata = loadIconXML()
 catdata = loadAllCategories()
-#catdata = loadSidebarCategories()
-mapdata = loadSidebarMaps()
+#catdata = loadSubsetCategories()
+mapdata = loadMaps()
 
 if catdata != None and mapdata != None:
     catdict = catdata.values()
