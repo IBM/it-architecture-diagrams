@@ -140,19 +140,5 @@ The lang parameter is used to select the country code corresponding to the fonts
 </p> 
 </details>
 
-<details><summary>Tools</summary>
-<p>
-
-<details><summary>Create Sidebar Tool</summary>
-<p>
-
-[Icon Categories](https://github.com/carbon-design-system/carbon/blob/main/packages/icons/categories.yml)
-
-[Icon Aliases](https://github.com/carbon-design-system/carbon/blob/main/packages/icons/icons.yml)
-
-</p>
-</details>
-
-
 </p>
 </details>
