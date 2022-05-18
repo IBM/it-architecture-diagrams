@@ -140,7 +140,7 @@ The lang parameter is used to select the country code corresponding to the fonts
 </p> 
 </details>
 
-<details><summary>Internal Tools</summary>
+<details><summary>Tools</summary>
 <p>
 
 <details><summary>Create Sidebar Tool</summary>
