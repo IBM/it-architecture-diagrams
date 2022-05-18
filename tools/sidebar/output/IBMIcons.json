@@ -121,6 +121,7 @@
         "hybrid-networking--alt": {"icon": "hybrid-networking--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-cloud--internet-services": {"icon": "ibm-cloud--internet-services", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "cloud-services"},
         "ibm-cloud--subnets": {"icon": "ibm-cloud--subnets", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "locked"},
+        "ibm-cloud--transit-gateway": {"icon": "ibm-cloud--transit-gateway", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "ibm-cloud--vpc-endpoints": {"icon": "ibm-cloud--vpc-endpoints", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "infrastructure--classic": {"icon": "infrastructure--classic", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "load-balancer--application": {"icon": "load-balancer--application", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
@@ -141,7 +142,7 @@
         "point-of-presence": {"icon": "point-of-presence", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "vlan--ibm": {"icon": "vlan--ibm", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "iconl": "vlan"},
         "vpn--connection": {"icon": "vpn--connection", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "vpn--policy": {"icon": "vpn--policy", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
+        "vpn--policy": {"icon": "vpn--policy", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
       },
 
       "Network Symbols": {
@@ -199,12 +200,13 @@
         "block-storage": {"icon": "block-storage", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "block-storage--alt": {"icon": "block-storage--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "file-storage": {"icon": "file-storage", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
+        "folder--detals": {"icon": "folder--detals", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "object-storage": {"icon": "object-storage", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "object-storage--alt": {"icon": "object-storage--alt", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "slicestor": {"icon": "slicestor", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "volume--block-storage": {"icon": "volume--block-storage", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "volume--file-storage": {"icon": "volume--file-storage", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
-        "volume--object-storage": {"icon": "volume--object-storage", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
+        "volume--object-storage": {"icon": "volume--object-storage", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}
       },
 
       "Other": {

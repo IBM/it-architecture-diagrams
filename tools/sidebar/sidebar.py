@@ -61,8 +61,8 @@ def isShapeName(shapes, name):
     return False
 
 xmldata = loadIconXML()
-catdata = loadAllCategories()
-#catdata = loadSubsetCategories()
+#catdata = loadAllCategories()
+catdata = loadSubsetCategories()
 mapdata = loadMaps()
 
 if catdata != None and mapdata != None:
@@ -86,7 +86,7 @@ if catdata != None and mapdata != None:
                 members = subcategory['members']
                 memcount = len(members)
                 for member in members:
-                    if isShapeName(xmldata, member):
+                    #if isShapeName(xmldata, member):
                         memcount = memcount - 1
                         map = findSidebarMap(mapdata, member)
                         if map != None:
