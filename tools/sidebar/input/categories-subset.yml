@@ -208,7 +208,7 @@ categories:
           - block-storage
           - block-storage--alt
           - file-storage
-          - folder--detals
+          - folder--details
           - object-storage
           - object-storage--alt
           - slicestor

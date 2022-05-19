@@ -60,62 +60,85 @@ def isShapeName(shapes, name):
             return True
     return False
 
-xmldata = loadIconXML()
-#catdata = loadAllCategories()
-catdata = loadSubsetCategories()
-mapdata = loadMaps()
+def load():
+    xmldata = loadIconXML()
+    catdata = loadAllCategories()
+    #catdata = loadSubsetCategories()
 
-if catdata != None and mapdata != None:
-    catdict = catdata.values()
-    print('{')
-    print('  "Sidebars": {')
-    print('    "Icons": {')
-    for categoryarray in catdict:
-        catcount = len(categoryarray)
-        for category in categoryarray:
+    newdata = {}
+
+    if catdata != None:
+        catdict = catdata.values()
+        for categoryarray in catdict:
+            catcount = len(categoryarray)
+            for category in categoryarray:
+                catcount = catcount - 1
+                subcategories = category['subcategories']
+                subcount = len(subcategories)
+                for subcategory in subcategories:
+                    subcount = subcount - 1
+                    if subcategory['name'] == 'none':
+                        newcategory = category['name']
+                    else:
+                        newcategory = category['name'] + ' - ' + subcategory['name']
+                    newdata[newcategory] = []
+                    members = subcategory['members']
+                    memcount = len(members)
+                    for member in members:
+                        if isShapeName(xmldata, member):
+                            newdata[newcategory].append(member)
+                    if len(newdata[newcategory]) == 0:
+                        del newdata[newcategory]
+
+    return newdata
+
+def dump(newdata):
+    mapdata = loadMaps()
+
+    if newdata != {}:
+        print('{')
+        print('  "Sidebars": {')
+        print('    "Icons": {')
+        catcount = len(newdata)
+        for category in newdata:
             catcount = catcount - 1
-            subcategories = category['subcategories']
-            subcount = len(subcategories)
-            for subcategory in subcategories:
-                subcount = subcount - 1
-                print('')
-                if subcategory['name'] == 'none':
-                    print('      "' + category['name'] + '": {')
+            print('')
+            print('      "' + category + '": {')
+            members = newdata[category]
+            memcount = len(members)
+            for member in members:
+                memcount = memcount - 1
+                map = findSidebarMap(mapdata, member)
+                if map != None:
+                    if memcount == 0:
+                        print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "' + map['mapper'] + '": "' + map['target'] + '"}')
+                    else:
+                        print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "' + map['mapper'] + '": "' + map['target'] + '"},')
                 else:
-                    print('      "' + category['name'] + ' - ' + subcategory['name'] + '": {')
-                members = subcategory['members']
-                memcount = len(members)
-                for member in members:
-                    #if isShapeName(xmldata, member):
-                        memcount = memcount - 1
-                        map = findSidebarMap(mapdata, member)
-                        if map != None:
-                            if memcount == 0:
-                                print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "' + map['mapper'] + '": "' + map['target'] + '"}')
-                            else:
-                                print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null, "' + map['mapper'] + '": "' + map['target'] + '"},')
-                        else:
-                            if memcount == 0:
-                                print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}')
-                            else:
-                                print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},')
+                    if memcount == 0:
+                        print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null}')
+                    else:
+                        print('        "' + member + '": {"icon": "' + member + '", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},')
 
-                if subcount == 0 and catcount == 0:
-                    print('      }')
-                else:
-                    print('      },')
+            if catcount == 0:
+                print('      }')
+            else:
+                print('      },')
 
-    print('    }')
-    print('  },')
+        print('    }')
+        print('  },')
 
-    print('')
-    print('  "Variables": {')
-    print('    "$BASE_ICON": {"type": "nodel", "layout": "collapsed", "weight": null, "header": true, "container": false},')
-    print('    "$BASE_ICON_DEFAULT_PROPERTIES": {"text": null, "subtext": null, "color": "$BASE_ICON_DEFAULT_COLOR", "badge": "$BASE_ICON_DEFAULT_BADGE", "style": "$BASE_ICON_DEFAULT_STYLE", "ignore": false},')
-    print('    "$BASE_ICON_DEFAULT_COLOR": {"line": "coolgray",  "fill": null, "font": null},')
-    print('    "$BASE_ICON_DEFAULT_BADGE": {"form": null, "color": "blue", "text": null},')
-    print('    "$BASE_ICON_DEFAULT_STYLE": {"dashed": false, "double": false, "strikethrough": false, "multiplicity": false}')
-    print('  }')
+        print('')
+        print('  "Variables": {')
+        print('    "$BASE_ICON": {"type": "nodel", "layout": "collapsed", "weight": null, "header": true, "container": false},')
+        print('    "$BASE_ICON_DEFAULT_PROPERTIES": {"text": null, "subtext": null, "color": "$BASE_ICON_DEFAULT_COLOR", "badge": "$BASE_ICON_DEFAULT_BADGE", "style": "$BASE_ICON_DEFAULT_STYLE", "ignore": false},')
+        print('    "$BASE_ICON_DEFAULT_COLOR": {"line": "coolgray",  "fill": null, "font": null},')
+        print('    "$BASE_ICON_DEFAULT_BADGE": {"form": null, "color": "blue", "text": null},')
+        print('    "$BASE_ICON_DEFAULT_STYLE": {"dashed": false, "double": false, "strikethrough": false, "multiplicity": false}')
+        print('  }')
 
-    print('}')
+        print('}')
 
+
+newdata = load()
+dump(newdata)
