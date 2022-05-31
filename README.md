@@ -3,11 +3,13 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 
 ## IBM Diagrams
 
-IBM WebApp VPC Infrastructure Diagram:
+### [IBM WebApp VPC Diagram](/examples/IBMWebAppVPC.xml)
+
+#### Infrastructure
 
 ![IBM WebApp VPC Infrastructure](/images/IBMWebAppVPCInfrastructure.png "IBM WebApp VPC Infrastructure")
 
-IBM WebApp VPC Application Diagram:
+#### Application
 
 ![IBM WebApp VPC Application](/images/IBMWebAppVPCApplication.png "IBM WebApp VPC Application")
 
