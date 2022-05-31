@@ -18,7 +18,7 @@ Application:
 
 Source:
 
-[IBM WebApp VPC Diagram](/examples/IBMWebAppVPC.xml)
+[IBM WebApp VPC Source](/examples/IBMWebAppVPC.xml)
 
 </p>
 </details>
