@@ -3,6 +3,10 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 
 ## IBM Diagrams
 
+![IBM WebApp VPC Infrastructure](/images/IBMWebAppVPCInfrastructure.png "IBM WebApp VPC Infrastructure")
+
+![IBM WebApp VPC Application](/images/IBMWebAppVPCApplication.png "IBM WebApp VPC Application")
+
 <details><summary>Guidelines</summary>
 <p>
 
@@ -65,7 +69,7 @@ For IBM Icons:
 | Collapsed and Expanded Target System | Solid changable to white or light | N/A | No |
 | Expanded Component and Node | Solid  | White changable to light | Yes |
 | Location and Subsystem | Same as Body Fill | White changable to light | Yes |
-| Zone | Same as Body Fill |  No fill | No |
+| Zone | No fill |  No fill | No |
 
 For dropin images:
 
