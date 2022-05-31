@@ -95,9 +95,9 @@ The IBM Preset Colors are the secondary method of using the IBM Color Palette wi
 ![IBM Preset Colors](/images/IBMPresetColors.png "IBM Preset Colors")
 
 Where,
-* First row in top group are dark colors for lines.
+* First row in top group are light colors for fills.
 * Second row in top group are medium colors for lines.
-* Third row in top group are light colors for fills.
+* Third row in top group are dark colors for lines.
   
 Additionally,
 * First row in bottom group has Transparent, White, and Black.
