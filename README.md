@@ -118,7 +118,7 @@ The Format Panel under Text is configured with fonts for IBM Plex Sans and Arial
 | Family | Weight | Use |
 | --- | --- | --- |
 | IBM Plex Sans | Regular 400 | Other Labels |
-| | Regular 400 Italic | I button |
+| | Regular 400 Italic | I button on Other Labels |
 | | SemiBold 600 | Shape Primary Label |
 | | SemiBold 600 Italic | I button on Shape Primary Label |
 | | Bold 700 | B button |
