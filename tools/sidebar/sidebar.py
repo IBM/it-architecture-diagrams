@@ -23,7 +23,7 @@ import urllib3
 from xml.dom import minidom
 
 def loadIconXML():
-    inputfile = './input/ibm.xml'
+    inputfile = './input/ibmicons.xml'
     file = minidom.parse(inputfile)
     shapes = file.getElementsByTagName('shape')
     return shapes
@@ -35,7 +35,7 @@ def loadAllCategories():
     return data
 
 def loadMaps():
-    inputfile = './input/maps.yml'
+    inputfile = './input/iconmaps.yml'
     stream = open(inputfile, 'r')
     data = yaml.load(stream, Loader=yaml.FullLoader)
     return data
@@ -62,8 +62,8 @@ def isShapeName(shapes, name):
 
 def load():
     xmldata = loadIconXML()
-    catdata = loadAllCategories()
-    #catdata = loadSubsetCategories()
+    #catdata = loadAllCategories()
+    catdata = loadSubsetCategories()
 
     newdata = {}
 

@@ -4,7 +4,8 @@ categories:
       - name: none
         members:
           - collaborate
-          -  devices
+          - concept
+          - devices
           - events
           - group
           - laptop

@@ -4,6 +4,7 @@
 
       "Actors": {
         "collaborate": {"icon": "collaborate", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
+        "concept": {"icon": "concept", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "devices": {"icon": "devices", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "events": {"icon": "events", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
         "group": {"icon": "group", "format": "$BASE_ICON", "$BASE_ICON_DEFAULT_PROPERTIES": null},
