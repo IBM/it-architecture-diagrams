@@ -48,10 +48,6 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 <details><summary>IBM Color Palette</summary>
 <p>
 
-When any IBM sidebar is first selected the menu bar turns blue indicating that IBM customizations are enabled.
-   
-The Format Panel under Style is configured with the IBM Color Palette.
-   
 Three colors in each color family are available for use with IBM Diagrams:
 * Light Fill (swatch 10)
 * Medium Line (swatch 50 or 60)
@@ -62,9 +58,23 @@ Additionally,
 * Black
 * Transparent
 
-Defaults,
-* Collapsed shapes and expanded target system shape default to no fill, which can be changed to white fill or light fill.
-* Remaining expanded shapes default to white fill for container shapes and no fill for non-container shapes, which can be changed to white fill or light fill.`.
+For IBM Icons: 
+
+| Shape | Icon Area | Body Fill | Container |
+| --- | --- | --- | --- |
+| Collapsed and Expanded Target System | Solid changable to white or light | N/A | No |
+| Expanded Component and Node | Solid  | White changable to light | Yes |
+| Location and Subsystem | Same as Body Fill | White changable to light | Yes |
+| Zone | Same as Body Fill |  No fill | No |
+
+For dropin images:
+
+| Shape | Icon Area | Body Fill | Container |
+| --- | --- | --- | --- |
+| Collapsed and Expanded Target System | White changable to light or solid | N/A | No |
+| Expanded Component and Node | Same as Body Fill  | White changable to light | Yes |
+| Location and Subsystem | Same as Body Fill | White changable to light | Yes |
+| Zone | No fill |  No fill | No |
    
 </p>
 </details>
