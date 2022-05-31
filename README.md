@@ -113,7 +113,7 @@ Tooltips,
 <details><summary>Fonts</summary>
 <p>
    
-The Format Panel under Text is configured with the IBM Plex Sans fonts on Google Fonts and Arial fonts:
+The Format Panel under Text is configured with the IBM Plex Sans and Arial fonts:
 
 | Family | Weight | Use |
 | --- | --- | --- |
