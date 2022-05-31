@@ -113,7 +113,7 @@ Tooltips,
 <details><summary>Fonts</summary>
 <p>
    
-The Format Panel under Text is configured with the IBM Plex Sans and Arial fonts:
+The Format Panel under Text is configured with fonts for IBM Plex Sans and Arial:
 
 | Family | Weight | Use |
 | --- | --- | --- |
