@@ -4,9 +4,9 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 ## IBM Diagrams
 
 <details><summary>Examples</summary>
-<p>
 
 <details><summary>IBM WebApp VPC</summary>
+<p>
 
 Infrastructure:
 
@@ -23,7 +23,6 @@ Source:
 </p>
 </details>
 
-</p>
 </details>
 
 <details><summary>Guidelines</summary>
