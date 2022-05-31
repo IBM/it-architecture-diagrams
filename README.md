@@ -136,6 +136,8 @@ Labels in IBM Diagrams are pre-defined with IBM Plex Sans Regular and IBM Plex S
 | Legend Label | SemiBold 600 | 14 |
 
 The lang parameter enables the country code corresponding to the fonts.
+
+Other IBM Global Plex Sans fonts planned to be added.
    
 </p> 
 </details>
