@@ -134,6 +134,7 @@ Tooltips,
 
 </p>
 </details>
+
 </details>
 
 <details><summary>Fonts</summary>
@@ -168,5 +169,18 @@ Other IBM Global Plex Sans fonts planned to be added.
 </p> 
 </details>
 
+<details><summary>Mac Setup</summary>
+<p>
+To access and start the latest IBM pre-release diagrams.net application binary for Mac: 
+   
+1. Download the [zip](https://github.com/IBM/it-architecture-diagrams/releases).
+2. Extract and open the application binary. 
+3. When you run the first time Mac will ask about security:
+    * Go to **System Preferences**.
+    * Select **Security & Privacy**.
+    * Click on **Open Anyway** for this app.
+4. After opening the application binary click on "+ More Shapes" in the bottom left panel.
+5. Select IBM and click Apply to finish.
+6. IBM Sidebars are now available.
 </p>
 </details>
