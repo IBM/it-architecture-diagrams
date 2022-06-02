@@ -1,8 +1,6 @@
 # it-architecture-diagrams
 Build technical diagrams for IT architecture based on the [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design) and [Carbon Design System](https://carbondesignsystem.com/) featuring the [IBM Color Palette](https://www.ibm.com/design/language/color/) and [IBM Plex Fonts](https://www.ibm.com/plex/).
 
-## IBM Diagrams
-
 <details><summary>Examples</summary>
 
 <details><summary>IBM WebApp VPC</summary>
