@@ -153,7 +153,7 @@ Other IBM Global Plex Sans fonts planned to be added.
 </p> 
 </details>
 
-<details><summary>Mac Setup</summary>
+<details><summary>Setup</summary>
 <p>
 To access and start the latest IBM pre-release diagrams.net application binary for Mac: 
    
