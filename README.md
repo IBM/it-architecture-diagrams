@@ -35,9 +35,7 @@ Recommended guidelines include:
 </p>
 </details>
 
-<details><summary>Setup</summary>
-   
-<details><summary>Mac</summary>
+<details><summary>Mac Setup</summary>
 <p>
 To access and start the latest IBM pre-release diagrams.net application binary for Mac: 
    
@@ -49,20 +47,16 @@ To access and start the latest IBM pre-release diagrams.net application binary f
     * Click on **Open Anyway** for this app.
 4. After opening the application binary click on "+ More Shapes" in the bottom left panel.
 5. Select IBM and click Apply to finish.
-6. IBM Sidebars are now available:
-    * Base:
-        * IBM Icons *(Generic list of all icons)*
-        * IBM Shapes *(Generic list of all shapes)*
-    * Cloud:
-        * IBM Cloud *(Customized icons & groups)*
-        * IBM Core *(Customized icons & groups)*
-        * IBM Industry *(Customized icons & groups)*
-    * Sets:
-        * IBM Helpers *(Preconfigured collections)*
-        * IBM Starters *(Preconfigured arrangements)*
+6. IBM Sidebars are now available.
 </p>
 </details>
 
+<details><summary>Sidebars</summary>
+<p>
+
+[IBM Sidebars](/images/sidebar-ibmshape.png "IBM Sidebars")
+
+</p>
 </details>
 
 <details><summary>Colors</summary>
