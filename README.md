@@ -37,9 +37,8 @@ Source:
 <details><summary>Guidelines</summary>
 <p>
 
-Recommended guidelines include:
-* Always include one legend with each diagram - no legend won't explain the diagram and multiple legends can overpower the diagram.
-* Alternate white fill and light fill between consecutive nested groups -  alternating fills enables each group to stand out visually.
+* Always include one legend with each diagram to help explain the diagram but multiple legends can overpower the diagram.
+* Alternate white fill and light fill between consecutive nested groups to enable each group to stand out visually.
 
 </p>
 </details>
