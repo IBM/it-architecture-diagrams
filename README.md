@@ -38,6 +38,7 @@ Source:
 * Alternate white fill and light fill between consecutive nested groups to enable each group to stand out visually.
 * Always include one legend with each diagram to help explain the diagram but multiple legends can overpower the diagram.
 * For connections, use gaps for line jumps, curved elbows, and solid straight triangle arrows:
+
 ![Connector Styles](/images/connector-styles.png "Connector Styles")
 
 </p>
@@ -83,6 +84,7 @@ For dropin images:
 <p>
    
 The IBM Color Schemes at the top of the Format Panel under Style are the recommended method of using the IBM Color Palette:
+
 ![IBM Color Schemes](/images/color-schemes.png "IBM Color Schemes")
 
 Where,
@@ -102,6 +104,7 @@ Example,
 <p>
 
 The IBM Preset Colors are the secondary method of using the IBM Color Palette with the top group of 3 rows:
+
 ![IBM Preset Colors](/images/preset-colors.png "IBM Preset Colors")
 
 Where,
