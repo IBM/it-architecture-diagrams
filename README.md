@@ -37,7 +37,7 @@ Source:
 
 * Alternate white fill and light fill between consecutive nested groups to enable each group to stand out visually.
 * Always include one legend with each diagram to help explain the diagram but multiple legends can overpower the diagram.
-* For connections, use gaps for line jumps, curved elbows, and solid straight triangle arrows:
+* For connection lines use gaps for line jumps, curved elbows, and solid straight triangle arrows:
 
 ![Connector Styles](/images/connector-styles.png "Connector Styles")
 
