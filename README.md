@@ -8,15 +8,15 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 
 Infrastructure:
 
-![IBM WebApp VPC Infrastructure](/images/IBMWebAppVPCInfrastructure.png "IBM WebApp VPC Infrastructure")
+![webappvpc-infrastructure](/images/webappvpc-infrastructure.png "IBM WebApp VPC Infrastructure")
 
 Application:
 
-![IBM WebApp VPC Application](/images/IBMWebAppVPCApplication.png "IBM WebApp VPC Application")
+![webappvpc-application](/images/webappvpc-application.png "IBM WebApp VPC Application")
 
 Source:
 
-[IBM WebApp VPC Source](/examples/IBMWebAppVPC.xml)
+[IBM WebApp VPC Source](/examples/ibm_vpc_architecture.xml)
 
 </p>
 </details>
@@ -35,8 +35,10 @@ Source:
 <details><summary>Guidelines</summary>
 <p>
 
-* Always include one legend with each diagram to help explain the diagram but multiple legends can overpower the diagram.
 * Alternate white fill and light fill between consecutive nested groups to enable each group to stand out visually.
+* Always include one legend with each diagram to help explain the diagram but multiple legends can overpower the diagram.
+* For connections, use gaps for line jumps, curved elbows, and solid straight triangle arrows:
+![Connector Styles](/images/connector-styles.png "Connector Styles")
 
 </p>
 </details>
@@ -81,7 +83,7 @@ For dropin images:
 <p>
    
 The IBM Color Schemes at the top of the Format Panel under Style are the recommended method of using the IBM Color Palette:
-![IBM Color Schemes](/images/IBMColorSchemes.png "IBM Color Schemes")
+![IBM Color Schemes](/images/color-schemes.png "IBM Color Schemes")
 
 Where,
 * Top row are medium color lines with white fill followed by light fill.
@@ -100,7 +102,7 @@ Example,
 <p>
 
 The IBM Preset Colors are the secondary method of using the IBM Color Palette with the top group of 3 rows:
-![IBM Preset Colors](/images/IBMPresetColors.png "IBM Preset Colors")
+![IBM Preset Colors](/images/preset-colors.png "IBM Preset Colors")
 
 Where,
 * First row in top group are light colors for fills.
