@@ -20,7 +20,7 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 
 ![Connector Styles](/images/connector-styles.png "Connector Styles")
 
-* Use badges sparingly as needed to not adversely affect the viewability of the overall diagram.
+* Use badges sparingly as needed to not adversely affect the overall diagram.
 
 </p>
 </details>
