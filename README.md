@@ -180,3 +180,13 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 6. IBM Sidebars are now available.
 </p>
 </details>
+
+<details><summary>Issues</summary>
+<p>
+
+1. Dropin size issue - dropping in an image to a shape increases the shape size, for example collapsed shape should remain at 48x48 but dropping in an image changes the size to 48x52 which can then be manually decreased back to 48x48:
+
+![dropin-size-issue](/images/dropin-size-issue.png "Dropin Size Issue")
+
+</p>
+</details>
