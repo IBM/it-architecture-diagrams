@@ -51,6 +51,8 @@ Source:
 ![IBM Sidebars](/images/sidebar-ibmshape.png "IBM Sidebars")
 
 </p>
+</details>
+
 <details><summary>Colors</summary>
    
 <details><summary>IBM Color Palette</summary>
