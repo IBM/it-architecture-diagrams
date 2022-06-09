@@ -1,6 +1,28 @@
 # it-architecture-diagrams
 Build technical diagrams for IT architecture based on the [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design) and [Carbon Design System](https://carbondesignsystem.com/) featuring the [IBM Color Palette](https://www.ibm.com/design/language/color/) and [IBM Plex Fonts](https://www.ibm.com/plex/).
 
+<details><summary>Guidelines</summary>
+<p>
+
+* Use the provided line styles only to differentiate diagram changes and describe the purpose in a legend:
+
+![Line Styles](/images/line-styles.png "Line Styles")
+ 
+* Alternate white fill and light fill between consecutive nested groups to enable each group to stand out visually.
+
+![Alternate Fills](/images/alternate-fills.png "Alternate Fills")
+
+* Include one legend with each diagram to help explain the diagram but multiple separate legends can overpower the diagram.
+
+![Single Legend](/images/single-legend.png "Single Legend")
+
+* For connection lines consider using gaps for line jumps, curved elbows, and solid straight triangle arrows:
+
+![Connector Styles](/images/connector-styles.png "Connector Styles")
+
+</p>
+</details>
+
 <details><summary>Examples</summary>
 
 <details><summary>IBM WebApp VPC</summary>
@@ -29,31 +51,6 @@ Source:
 ![IBM Sidebars](/images/sidebar-ibmshape.png "IBM Sidebars")
 
 </p>
-</details>
-
-
-<details><summary>Guidelines</summary>
-<p>
-
-* Use the provided line styles only to differentiate diagram changes and describe the purpose in a legend:
-
-![Line Styles](/images/line-styles.png "Line Styles")
- 
-* Alternate white fill and light fill between consecutive nested groups to enable each group to stand out visually.
-
-![Alternate Fills](/images/alternate-fills.png "Alternate Fills")
-
-* Include one legend with each diagram to help explain the diagram but multiple separate legends can overpower the diagram.
-
-![Single Legend](/images/single-legend.png "Single Legend")
-
-* For connection lines consider using gaps for line jumps, curved elbows, and solid straight triangle arrows:
-
-![Connector Styles](/images/connector-styles.png "Connector Styles")
-
-</p>
-</details>
-
 <details><summary>Colors</summary>
    
 <details><summary>IBM Color Palette</summary>
