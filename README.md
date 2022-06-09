@@ -8,11 +8,11 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 
 ![Line Styles](/images/line-styles.png "Line Styles")
  
-* Alternate white fill and light fill between consecutive nested groups to enable each group to stand out visually.
+* Alternate white fill and light fill between consecutive nested groups to enable each group to stand out.
 
 ![Alternate Fills](/images/alternate-fills.png "Alternate Fills")
 
-* Include one legend with each diagram to help explain the diagram but multiple separate legends can overpower the diagram.
+* Include a single legend with each diagram to help explain the diagram:
 
 ![Single Legend](/images/single-legend.png "Single Legend")
 
