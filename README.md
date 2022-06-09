@@ -35,9 +35,17 @@ Source:
 <details><summary>Guidelines</summary>
 <p>
 
+* Use the provided line styles only to differentiate diagram changes and describe the purpose in a legend:
+
+![Line Styles](/images/line-styles.png "Line Styles")
+ 
 * Alternate white fill and light fill between consecutive nested groups to enable each group to stand out visually.
-* Always include one legend with each diagram to help explain the diagram but multiple legends can overpower the diagram.
-* For connection lines use gaps for line jumps, curved elbows, and solid straight triangle arrows:
+
+![Alternate Fills](/images/alternate-fills.png "Alternate Fills")
+
+* Include one legend with each diagram to help explain the diagram but multiple legends can overpower the diagram.
+
+* For connection lines consider using gaps for line jumps, curved elbows, and solid straight triangle arrows:
 
 ![Connector Styles](/images/connector-styles.png "Connector Styles")
 
