@@ -43,7 +43,9 @@ Source:
 
 ![Alternate Fills](/images/alternate-fills.png "Alternate Fills")
 
-* Include one legend with each diagram to help explain the diagram but multiple legends can overpower the diagram.
+* Include one legend with each diagram to help explain the diagram but multiple separate legends can overpower the diagram.
+
+![Single Legend](/images/single-legend.png "Single Legend")
 
 * For connection lines consider using gaps for line jumps, curved elbows, and solid straight triangle arrows:
 
