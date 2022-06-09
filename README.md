@@ -4,7 +4,7 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 <details><summary>Guidelines</summary>
 <p>
 
-* Use the provided line styles only to temporarily differentiate diagram changes and describe the purpose in a legend:
+* Use the provided line styles only to temporarily differentiate changes and describe the purpose in a legend:
 
 ![Line Styles](/images/line-styles.png "Line Styles")
  
