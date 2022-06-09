@@ -188,5 +188,7 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 
 ![dropin-size-issue](/images/dropin-size-issue.png "Dropin Size Issue")
 
+2. Global fonts issue - de, en, es, fr correctly set fontFamily=IBM Plex Sans but other languanges incorrectly set fontFamily=undefined, eventually all global fonts are planned to be supported.
+
 </p>
 </details>
