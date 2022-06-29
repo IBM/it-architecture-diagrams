@@ -85,21 +85,25 @@ Followed by a group of 10 rows where:
 * First row are Transparent, White, Greys, and Black.
 * Second row through tenth row are the entire IBM colors minus swatch 100.
 
-Note:
+Notes:
 * Each IBM color has a tooltip that shows the color family, color swatch, and intended use.
 * For IBM Icons,
-  * Collapsed shapes and expanded target system default to solid color but can be changed to white or light fill.
+  * Collapsed shapes and expanded target system default to solid color but changable to white or light fill.
   * Other expanded shapes default to solid color behind the icon and white fill for the rest of the shape.
 * For dropin images, 
-  * Collapsed shapes and expanded target system default to white fill but can be changed to solid or light fill.
-  * Other expanded shapes default to the white fill behind the icon and the rest of the shape but can be changed to light fill.
+  * Collapsed shapes and expanded target system default to white fill but changable to solid or light fill.
+  * Other expanded shapes default to white fill behind the icon and the rest of the shape but can be changed to light fill.
    
 </details>
 
 <details><summary>Fonts</summary>
 <p>
    
-The Format Panel under Text is configured with fonts for IBM Plex Sans and Arial:
+The Format Panel Text tab is configured with fonts for IBM Plex Sans and Arial:
+
+![Text Tab](/images/text-tab.png "Text Tab")
+
+The buttons are configured according to the following:
 
 | Family | Weight | Use |
 | --- | --- | --- |
@@ -110,7 +114,8 @@ The Format Panel under Text is configured with fonts for IBM Plex Sans and Arial
 | | Bold 700 | B button |
 | | Bold 700 Italic | B+I buttons |
 
-Labels in IBM Diagrams are pre-defined with IBM Plex Sans Regular and IBM Plex Sans SemiBold:
+Labels are defined with IBM Plex Sans Regular and IBM Plex Sans SemiBold:
+
 | Label | Weight | Size |
 | --- | --- | --- |
 | Shape Primary Label | SemiBold 600 | 14 |
