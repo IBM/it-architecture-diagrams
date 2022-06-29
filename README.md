@@ -57,18 +57,35 @@ Source:
 
 <details><summary>Colors</summary>
    
-<details><summary>IBM Color Palette</summary>
-<p>
+When an IBM Sidebar is first selected the top bar turns blue indicating use of IBM colors, IBM fonts, and IBM Properties:
 
-Three colors in each color family are available for use with IBM Diagrams:
-* Light Fill (swatch 10)
-* Medium Line (swatch 50 or 60)
-* Dark Line (swatch 70 or 80)
-   
-Additionally,
-* White
-* Black
-* Transparent
+![Top Bar](/images/top-bar.png "Top Bar")
+
+The Format Panel Style tab includes the IBM colors which can be set with the color schemes or individual colors:
+
+![style-tab](/images/style-tab.png "Style Tab")
+
+The recommended method of setting colors is with the color schemes at the top of the Style tab which includes all 
+combinations of line colors (medium and dark swatches) and fill colors (white or light swatch of same color family 
+as the line color).
+
+The secondary method of setting colors is with the individual line and fill colors under the color schemes which
+brings up the entire color palette:
+
+![Color Palette](/images/color-palette.png "Color Palette")
+
+The top row are the recently selected colors.
+
+Followed by a group of 3 rows where:
+* First row are light colors for fills.
+* Second row are medium colors for lines.
+* Third row are dark colors for lines.
+  
+Followed by a group of 10 rows where:
+* First row are Transparent, White, Greys, and Black.
+* Second row through tenth row are the entire IBM colors minus swatch 100.
+
+Note that each IBM color has a tooltip that shows the color family, color swatch, and intended use.
 
 For IBM Icons: 
 
@@ -88,51 +105,6 @@ For dropin images:
 | Location and Subsystem | Same as Body Fill | White changable to light | Yes |
 | Zone | No fill |  No fill | No |
    
-</p>
-</details>
-
-<details><summary>IBM Color Schemes</summary>
-<p>
-   
-The IBM Color Schemes at the top of the Format Panel under Style are the recommended method of using the IBM Color Palette:
-
-![IBM Color Schemes](/images/color-schemes.png "IBM Color Schemes")
-
-Where,
-* Top row are medium color lines with white fill followed by light fill.
-* Bottom row are dark color lines with white fill followed by light fill.
-   
-Example,
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| Medium Red<br>White Fill | Medium Red<br>Light Fill | Medium Magenta<br>White Fill | Medium Magenta<br>Light Fill |
-| Dark Red<br>White Fill | Dark Red<br>Light Fill | Dark Magenta<br>White Fill | Dark Magenta<br>Light Fill |
-
-</p>
-</details>
-
-<details><summary>IBM Preset Colors</summary>
-<p>
-
-The IBM Preset Colors are the secondary method of using the IBM Color Palette with the top group of 3 rows:
-
-![IBM Preset Colors](/images/preset-colors.png "IBM Preset Colors")
-
-Where,
-* First row in top group are light colors for fills.
-* Second row in top group are medium colors for lines.
-* Third row in top group are dark colors for lines.
-  
-Additionally,
-* First row in bottom group has Transparent, White, and Black.
-* Second row through tenth row in bottom group are the entire IBM Color Palette minus swatch 100.
-
-Tooltips,
-* Each color in the IBM Colors has a tooltip that shows the color family, color swatch, and intended use.
-
-</p>
-</details>
-
 </details>
 
 <details><summary>Fonts</summary>
