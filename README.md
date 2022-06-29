@@ -83,7 +83,7 @@ Followed by a group of 3 rows where:
   
 Followed by a group of 10 rows where:
 * First row are Transparent, White, Greys, and Black.
-* Second row through tenth row are the entire IBM colors minus swatch 100.
+* Second row through tenth row are the entire set of IBM colors minus swatch 100.
 
 Notes:
 * Each IBM color has a tooltip that shows the color family, color swatch, and intended use.
