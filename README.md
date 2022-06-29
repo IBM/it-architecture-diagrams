@@ -57,7 +57,7 @@ Source:
 
 <details><summary>Colors</summary>
    
-When an IBM Sidebar is first selected the top bar turns blue indicating use of IBM colors, IBM fonts, and IBM Properties:
+When an IBM Sidebar is first selected the top bar turns blue indicating use of the IBM colors, fonts, shapes, and properties.
 
 ![Top Bar](/images/top-bar.png "Top Bar")
 
@@ -66,7 +66,7 @@ The Format Panel Style tab includes the IBM colors which can be set with the col
 ![style-tab](/images/style-tab.png "Style Tab")
 
 The recommended method of setting colors is with the color schemes at the top of the Style tab which includes all 
-combinations of line colors (medium and dark swatches) and fill colors (white or light swatch of same color family 
+combinations of line colors (medium colors on top row and dark colors on bottom row) and fill colors (white or light color of same color family 
 as the line color).
 
 The secondary method of setting colors is with the individual line and fill colors under the color schemes which
