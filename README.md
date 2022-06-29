@@ -57,7 +57,7 @@ Source:
 
 <details><summary>Colors</summary>
    
-When an IBM Sidebar is first selected the top bar turns blue indicating use of the IBM colors, fonts, shapes, and properties.
+When an IBM Sidebar is first selected the top bar turns blue indicating use of the IBM colors, fonts, shapes, and properties:
 
 ![Top Bar](/images/top-bar.png "Top Bar")
 
@@ -85,25 +85,14 @@ Followed by a group of 10 rows where:
 * First row are Transparent, White, Greys, and Black.
 * Second row through tenth row are the entire IBM colors minus swatch 100.
 
-Note that each IBM color has a tooltip that shows the color family, color swatch, and intended use.
-
-For IBM Icons: 
-
-| Shape | Icon Area | Body Fill | Container |
-| --- | --- | --- | --- |
-| Collapsed and Expanded Target System | Solid changable to white or light | N/A | No |
-| Expanded Component and Node | Solid  | White changable to light | Yes |
-| Location and Subsystem | Same as Body Fill | White changable to light | Yes |
-| Zone | No fill |  No fill | No |
-
-For dropin images:
-
-| Shape | Icon Area | Body Fill | Container |
-| --- | --- | --- | --- |
-| Collapsed and Expanded Target System | White changable to light or solid | N/A | No |
-| Expanded Component and Node | Same as Body Fill  | White changable to light | Yes |
-| Location and Subsystem | Same as Body Fill | White changable to light | Yes |
-| Zone | No fill |  No fill | No |
+Note:
+* Each IBM color has a tooltip that shows the color family, color swatch, and intended use.
+* For IBM Icons,
+  * Collapsed shapes and expanded target system default to solid color but can be changed to white or light fill.
+  * Other expanded shapes default to solid color behind the icon and white fill for the rest of the shape.
+* For dropin images, 
+  * Collapsed shapes and expanded target system default to white fill but can be changed to solid or light fill.
+  * Other expanded shapes default to the white fill behind the icon and the rest of the shape but can be changed to light fill.
    
 </details>
 
