@@ -103,18 +103,16 @@ The Format Panel Text tab is configured with fonts for IBM Plex Sans and Arial:
 
 ![Plex Tab](/images/plex-tab.png "Plex Tab")
 
-The buttons are configured according to the following:
+The buttons are configured for IBM Plex Sans as follows:
 
-| Family | Weight | Use |
-| --- | --- | --- |
-| IBM Plex Sans | Regular 400 | Other Labels |
-| | Regular 400 Italic | I button on Other Labels |
-| | SemiBold 600 | Shape Primary Label |
-| | SemiBold 600 Italic | I button on Shape Primary Label |
-| | Bold 700 | B button |
-| | Bold 700 Italic | B+I buttons |
+| Button | Weight |
+| --- | --- |
+| No Button | Regular 400 |
+| I Button | Regular 400 Italic |
+| B Button | Bold 700 |
+| B+I Button | Bold 700 Italic |
 
-Labels are defined with IBM Plex Sans Regular and IBM Plex Sans SemiBold:
+Shape labels are configured for IBM Plex Sans as follows:
 
 | Label | Weight | Size |
 | --- | --- | --- |
