@@ -101,7 +101,7 @@ Notes:
    
 The Format Panel Text tab is configured with fonts for IBM Plex Sans and Arial:
 
-![Text Tab](/images/text-tab.png "Text Tab")
+![Plex Tab](/images/plex-tab.png "Plex Tab")
 
 The buttons are configured according to the following:
 
