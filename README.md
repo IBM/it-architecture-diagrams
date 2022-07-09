@@ -1,30 +1,6 @@
 # it-architecture-diagrams
 Build technical diagrams for IT architecture based on the [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design) and [Carbon Design System](https://carbondesignsystem.com/) featuring the [IBM Color Palette](https://www.ibm.com/design/language/color/) and [IBM Plex Fonts](https://www.ibm.com/plex/).
 
-<details><summary>Guidelines</summary>
-<p>
-
-* Use the provided line styles only to temporarily differentiate changes and describe the purpose in a legend:
-
-![Line Styles](/images/line-styles.png "Line Styles")
- 
-* Alternate white fill and light fill between consecutive nested groups to enable each group to stand out.
-
-![Alternate Fills](/images/alternate-fills.png "Alternate Fills")
-
-* Include a single legend with each diagram to help explain the diagram:
-
-![Single Legend](/images/single-legend.png "Single Legend")
-
-* For connection lines consider using gaps for line jumps, curved elbows, and solid straight triangle arrows:
-
-![Connector Styles](/images/connector-styles.png "Connector Styles")
-
-* Use badges sparingly as needed to not adversely affect the overall diagram.
-
-</p>
-</details>
-
 <details><summary>Colors</summary>
    
 When an IBM Sidebar is first selected the top bar turns blue indicating use of the IBM colors, fonts, shapes, and properties:
@@ -101,19 +77,27 @@ Other IBM Global Plex Sans fonts planned to be added.
 </p> 
 </details>
 
-<details><summary>Setup</summary>
+<details><summary>Guidelines</summary>
 <p>
-To access and start the latest IBM pre-release diagrams.net application binary for Mac: 
-   
-1. Download the [zip](https://github.com/IBM/it-architecture-diagrams/releases).
-2. Extract and open the application binary. 
-3. When you run the first time Mac will ask about security:
-    * Go to **System Preferences**.
-    * Select **Security & Privacy**.
-    * Click on **Open Anyway** for this app.
-4. After opening the application binary click on "+ More Shapes" in the bottom left panel.
-5. Select IBM and click Apply to finish.
-6. IBM Sidebars are now available.
+
+* Use the provided line styles only to temporarily differentiate changes and describe the purpose in a legend:
+
+![Line Styles](/images/line-styles.png "Line Styles")
+ 
+* Alternate white fill and light fill between consecutive nested groups to enable each group to stand out.
+
+![Alternate Fills](/images/alternate-fills.png "Alternate Fills")
+
+* Include a single legend with each diagram to help explain the diagram:
+
+![Single Legend](/images/single-legend.png "Single Legend")
+
+* For connection lines consider using gaps for line jumps, curved elbows, and solid straight triangle arrows:
+
+![Connector Styles](/images/connector-styles.png "Connector Styles")
+
+* Use badges sparingly as needed to not adversely affect the overall diagram.
+
 </p>
 </details>
 
