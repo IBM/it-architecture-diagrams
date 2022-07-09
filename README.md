@@ -25,20 +25,6 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 </p>
 </details>
 
-<details><summary>Example</summary>
-<p>
-
-Infrastructure:
-
-[webappvpc-infrastructure](/images/webappvpc-infrastructure.png "IBM WebApp VPC Infrastructure")
-
-Application:
-
-[webappvpc-application](/images/webappvpc-application.png "IBM WebApp VPC Application")
-
-</p>
-</details>
-
 <details><summary>Colors</summary>
    
 When an IBM Sidebar is first selected the top bar turns blue indicating use of the IBM colors, fonts, shapes, and properties:
