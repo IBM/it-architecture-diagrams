@@ -131,11 +131,9 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 </p>
 </details>
 
-Infrastructure Example:
+Examples:
 
 [webappvpc-infrastructure](/images/webappvpc-infrastructure.png "IBM WebApp VPC Infrastructure")
-
-Application Example:
 
 [webappvpc-application](/images/webappvpc-application.png "IBM WebApp VPC Application")
 
