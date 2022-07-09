@@ -25,7 +25,7 @@ Build technical diagrams for IT architecture based on the [IBM Design Language](
 </p>
 </details>
 
-<details><summary>IBM WebApp VPC Example</summary>
+<details><summary>Example</summary>
 <p>
 
 Infrastructure:
@@ -131,14 +131,11 @@ To access and start the latest IBM pre-release diagrams.net application binary f
 </p>
 </details>
 
-<details><summary>Issues</summary>
-<p>
+Infrastructure Example:
 
-1. Dropin size issue - dropping in an image to a shape increases the shape size, for example collapsed shape should remain at 48x48 but dropping in an image changes the size to 48x52 which can then be manually decreased back to 48x48:
+[webappvpc-infrastructure](/images/webappvpc-infrastructure.png "IBM WebApp VPC Infrastructure")
 
-![dropin-size-issue](/images/dropin-size-issue.png "Dropin Size Issue")
+Application Example:
 
-2. Global fonts issue - de, en, es, fr correctly set fontFamily=IBM Plex Sans but other languanges incorrectly set fontFamily=undefined, eventually all global fonts are planned to be supported.
+[webappvpc-application](/images/webappvpc-application.png "IBM WebApp VPC Application")
 
-</p>
-</details>
