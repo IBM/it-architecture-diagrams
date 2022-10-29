@@ -109,10 +109,10 @@ Examples:
 
 ## References
 
-- [drawIT](https://github.com/IBM/drawit)
-- [buildIT](https://github.com/IBM/buildit)
-- [Code Pattern](https://github.com/IBM/codepattern-multitier-vpc)
-- [Schematics](https://cloud.ibm.com/docs/schematics?topic=schematics-getting-started&interface=ui)
+- [Carbon Design System](https://carbondesignsystem.com/)
+- [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design)
+- [IBM Color Palette](https://www.ibm.com/design/language/color/)
+- [IBM Plex Fonts](https://www.ibm.com/plex/)
 
 ## License
 
