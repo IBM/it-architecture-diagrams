@@ -1,5 +1,17 @@
 # it-architecture-diagrams
-Repository and information for IBM IT architecture diagrams based on the [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design) and [Carbon Design System](https://carbondesignsystem.com/) featuring the [IBM Color Palette](https://www.ibm.com/design/language/color/) and [IBM Plex Fonts](https://www.ibm.com/plex/).
+IBM IT architecture diagrams are available with IBM v2 in diagrams.net desktop currently in [Mac beta](https://github.com/IBM/it-architecture-diagrams/releases/tag/v30.2.55-ibm2beta2), which is subject to change, eventually the final version will be available in [drawio-desktop](https://github.com/jgraph/drawio-desktop).  
+
+After unzipping, the Mac beta can be installed as a normal Mac app or can be run directly.  When running for the first time there may be a message that the app cannot be opened because the developer cannot be verified. If that is the case then go to System Preferences > Security and at the bottom of the Security box is Open File Anyway which if clicked on will allow the app to proceed with opening.
+
+IBM IT architecture diagrams include use of the following:
+* [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design)
+* [Carbon Design System](https://carbondesignsystem.com/)
+* [IBM Color Palette](https://www.ibm.com/design/language/color/)
+* [IBM Plex Fonts](https://www.ibm.com/plex/)
+
+The IBM Design language includes details on the IBM v2 diagrams in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
+
+Diagram-as-Code is available for IBM v2 diagrams with [drawIT](https://igithub.com/IBM/drawit) which helps architects focus on the content rather than the actual layout, especially as future changes are made to diagrams..
 
 <details><summary>Colors</summary>
    
@@ -25,7 +37,7 @@ The top row are the recently selected colors.
 Followed by a group of 3 rows where:
 * First row are light colors for fills.
 * Second row are medium colors for lines.
-* Third row are dark colors for lines.
+* Third row are dark colrs for lines.
   
 Followed by a group of 10 rows where:
 * First row are Transparent, White, Greys, and Black.
@@ -92,7 +104,7 @@ Other IBM Global Plex Sans fonts planned to be added.
 
 ![Single Legend](/images/single-legend.png "Single Legend")
 
-* For connection lines consider using gaps for line jumps, curved elbows, and solid straight triangle arrows:
+* For connection lines consider use gaps for line jumps, curved elbows, and solid straight triangle arrows:
 
 ![Connector Styles](/images/connector-styles.png "Connector Styles")
 
