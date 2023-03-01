@@ -5,9 +5,9 @@ After unzipping, the Mac beta can be installed as a normal Mac app or can be run
 
 IBM IT architecture diagrams include use of the following:
 * [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design)
-* [Carbon Design System](https://carbondesignsystem.com/)
 * [IBM Color Palette](https://www.ibm.com/design/language/color/)
 * [IBM Plex Fonts](https://www.ibm.com/plex/)
+* [Carbon Design System](https://carbondesignsystem.com/)
 
 The IBM Design language includes details on the IBM v2 diagrams in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
 
