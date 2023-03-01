@@ -11,7 +11,7 @@ IBM IT architecture diagrams include use of the following:
 
 The IBM Design language includes details on the IBM v2 diagrams in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
 
-Diagram-as-Code is available for IBM v2 diagrams with [drawIT](https://igithub.com/IBM/drawit) which helps architects focus on the content rather than the actual layout, especially as future changes are made to diagrams..
+Diagram-as-Code is available for IBM v2 diagrams with [drawIT](https://github.com/IBM/drawit) which helps users focus on the content rather than the actual layout, especially as future changes are made to diagrams.
 
 <details><summary>Colors</summary>
    
