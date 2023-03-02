@@ -119,12 +119,14 @@ Examples:
 
 [webappvpc-application](/images/webappvpc-application.png "IBM WebApp VPC Application")
 
+<!--
 ## References
 
 - [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design)
 - [IBM Color Palette](https://www.ibm.com/design/language/color/)
 - [IBM Plex Fonts](https://www.ibm.com/plex/)
 - [Carbon Design System](https://carbondesignsystem.com/)
+-->
 
 ## License
 
