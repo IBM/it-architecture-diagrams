@@ -3,15 +3,21 @@ IBM IT architecture diagrams are available with IBM v2 in diagrams.net desktop c
 
 After unzipping, the Mac beta can be installed as a normal Mac app or can be run directly.  When running for the first time there may be a message that the app cannot be opened because the developer cannot be verified. If that is the case then go to System Preferences > Security and at the bottom of the Security box is Open File Anyway which if clicked on will allow the app to proceed with opening.
 
-IBM IT architecture diagrams include use of the following:
+The IBM Design language includes details on the IBM v2 diagrams in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
+
+Diagram-as-Code is available for IBM v2 diagrams with [drawIT](https://github.com/IBM/drawit) which helps users focus on the content rather than the actual layout, especially as future changes are made to diagrams.
+
+<details><summary>Fundamentals</summary>
+<p>
+
+IBM IT architecture diagrams are comprised of the following:
 * [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design)
 * [IBM Color Palette](https://www.ibm.com/design/language/color/)
 * [IBM Plex Fonts](https://www.ibm.com/plex/)
 * [Carbon Design System](https://carbondesignsystem.com/)
 
-The IBM Design language includes details on the IBM v2 diagrams in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
-
-Diagram-as-Code is available for IBM v2 diagrams with [drawIT](https://github.com/IBM/drawit) which helps users focus on the content rather than the actual layout, especially as future changes are made to diagrams.
+</p>
+</details>
 
 <details><summary>Colors</summary>
    
@@ -57,7 +63,14 @@ Notes:
 <details><summary>Fonts</summary>
 <p>
    
-The Format Panel Text tab is configured with fonts for IBM Plex Sans and Arial:
+The Format Panel Text tab is configured with fonts from Google Fonts for all of the current IBM Plex Sans:
+* IBM Plex Sans
+* IBM Plex Sans Arabic
+* IBM Plex Sans Devanagar
+* IBM Plex Sans Hebrew
+* IBM Plex Sans JP
+* IBM Plex Sans KR
+* IBM Plex Sans Thai
 
 ![Plex Tab](/images/plex-tab.png "Plex Tab")
 
@@ -113,11 +126,15 @@ Other IBM Global Plex Sans fonts planned to be added.
 </p>
 </details>
 
-Examples:
+<details><summary>Examples</summary>
+<p>
 
 [webappvpc-infrastructure](/images/webappvpc-infrastructure.png "IBM WebApp VPC Infrastructure")
 
 [webappvpc-application](/images/webappvpc-application.png "IBM WebApp VPC Application")
+
+</p>
+</details>
 
 <!--
 ## References
