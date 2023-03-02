@@ -7,10 +7,10 @@ The IBM Design language includes details on the IBM v2 diagrams in [Technical Di
 
 Diagram-as-Code is available for IBM v2 diagrams with [drawIT](https://github.com/IBM/drawit) which helps users focus on the content rather than the actual layout, especially as future changes are made to diagrams.
 
-<details><summary>Fundamentals</summary>
+<details><summary>Base</summary>
 <p>
 
-IBM IT architecture diagrams are comprised of the following:
+IBM IT architecture diagrams are based on the following:
 * [IBM Design Language](https://www.ibm.com/design/language/infographics/technical-diagrams/design)
 * [IBM Color Palette](https://www.ibm.com/design/language/color/)
 * [IBM Plex Fonts](https://www.ibm.com/plex/)
@@ -96,8 +96,6 @@ Shape labels are configured for IBM Plex Sans as follows:
 | Legend Label | SemiBold 600 | 14 |
 
 The lang parameter enables the country code corresponding to the fonts.
-
-Other IBM Global Plex Sans fonts planned to be added.
    
 </p> 
 </details>
