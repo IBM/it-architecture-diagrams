@@ -2,8 +2,8 @@
 IBM IT architecture diagrams are available with IBM v2 in diagrams.net desktop currently in [Mac beta (internal use only)](https://github.ibm.com/acs-sa/it-architecture-diagrams/releases/tag/v30.2.45-ibm2beta2), which is subject to change until a final version from draw.io is available in [drawio-desktop](https://github.com/jgraph/drawio-desktop).  
 
 When running for the first time:
-* For the error message that the developer cannot be verified, go to System Preferences -> Security and select the Open File Anyway.
-* For the JavaScript message that BrowserWindow cannot be created before app is ready, go to Privacy & Security -> Developer Tools and select the ibm2beta2 app.
+* For the error message that the developer cannot be verified, go to System Preferences -> Security and select Open File Anyway.
+* For the JavaScript message that BrowserWindow cannot be created before app is ready, go to Privacy & Security -> Developer Tools and select ibm2beta2 app.
 
 The IBM Design language includes details on the IBM v2 diagrams in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
 
