@@ -1,13 +1,7 @@
 # it-architecture-diagrams
-IBM IT architecture diagrams are available with IBM v2 in diagrams.net desktop currently in [Mac beta (internal use only)](https://github.ibm.com/acs-sa/it-architecture-diagrams/releases/tag/v30.2.45-ibm2beta2), which is subject to change until a final version from draw.io is available in [drawio-desktop](https://github.com/jgraph/drawio-desktop).  
+A new IBM IT architecture diagram standard is planned.  The IBM Design language includes details in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
 
-When running for the first time:
-* For the error message that the developer cannot be verified, go to System Preferences -> Security and select Open File Anyway on the ibm2beta2 app.
-* For the JavaScript message that BrowserWindow cannot be created before app is ready, go to Privacy & Security -> Developer Tools and select ibm2beta2 app.
-
-The IBM Design language includes details on the IBM v2 diagrams in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
-
-Diagram-as-Code is available for IBM v2 diagrams with [drawIT](https://github.com/IBM/drawit) which helps users focus on the content rather than the actual layout, especially as future changes are made to diagrams.
+Diagram-as-Code is coming for the new diagram standard with [drawIT](https://github.com/IBM/drawit) which helps users focus on the content rather than the actual layout, especially as future changes are made to diagrams.
 
 <details><summary>Base</summary>
 <p>
@@ -105,27 +99,34 @@ The lang parameter enables the country code corresponding to the fonts.
 <details><summary>Guidelines</summary>
 <p>
 
+<!---
 * Use the provided line styles only to temporarily differentiate changes and describe the purpose in a legend:
 
 ![Line Styles](/images/line-styles.png "Line Styles")
+--->
  
 * Alternate white fill and light fill between consecutive nested groups to enable each group to stand out.
 
 ![Alternate Fills](/images/alternate-fills.png "Alternate Fills")
 
+<!---
 * Include a single legend with each diagram to help explain the diagram:
 
 ![Single Legend](/images/single-legend.png "Single Legend")
+--->
 
 * For connection lines consider use gaps for line jumps, curved elbows, and solid straight triangle arrows:
 
 ![Connector Styles](/images/connector-styles.png "Connector Styles")
 
+<!---
 * Use badges sparingly as needed to not adversely affect the overall diagram.
+--->
 
 </p>
 </details>
 
+<---
 <details><summary>Examples</summary>
 <p>
 
@@ -135,6 +136,7 @@ The lang parameter enables the country code corresponding to the fonts.
 
 </p>
 </details>
+--->
 
 <!--
 ## References
