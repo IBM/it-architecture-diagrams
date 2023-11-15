@@ -1,7 +1,9 @@
 # it-architecture-diagrams
 A new IBM IT architecture diagram standard is planned.  The IBM Design language includes details in [Technical Diagrams Design](https://www.ibm.com/design/language/infographics/technical-diagrams/design/) and [Technical Diagrams Usage](https://www.ibm.com/design/language/infographics/technical-diagrams/usage/).
 
-Diagram-as-Code is coming for the new diagram standard with [drawIT](https://github.com/IBM/drawit) which helps users focus on the content rather than the actual layout, especially as future changes are made to diagrams.
+<!---
+Diagram-as-Code is planned for the new diagram standard with [drawIT](https://github.com/IBM/drawit) which helps users focus on the content rather than the actual layout and as future changes are made to diagrams.
+--->
 
 <details><summary>Base</summary>
 <p>
